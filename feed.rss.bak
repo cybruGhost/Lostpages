@@ -1,0 +1,3138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Lost Pages blog</title>
+        <link>https://lostpages.netlify.app</link>
+        <description>The largest collection of free stuff on the internet!</description>
+        <lastBuildDate>Mon, 03 Feb 2025 20:46:11 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en-US</language>
+        <image>
+            <title>Lost Pages blog</title>
+            <url>https://github.com/Lost Pages.png</url>
+            <link>https://lostpages.netlify.app</link>
+        </image>
+        <copyright>Copyright (c) 2023-present Lost Pages</copyright>
+        <item>
+            <title><![CDATA[Monthly Updates [Feb]]]></title>
+            <link>https://lostpages.netlify.app/posts/feb-2025</link>
+            <guid>https://lostpages.netlify.app/posts/feb-2025</guid>
+            <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="nbats" /><div class="info custom-block"><p class="custom-block-title">INFO</p>
+<p>These update threads only contains major updates. If you're interested
+in seeing all minor changes you can follow our
+<a href="https://github.com/Lost Pages/Lost Pagesedit/commits/main" target="_blank" rel="noreferrer">Commits Page</a> on GitHub or
+<a href="https://redd.it/17f8msf" target="_blank" rel="noreferrer">Updates Channel</a> in Discord.</p>
+</div>
+<h3 id="wiki-updates" tabindex="-1">Wiki Updates <a class="header-anchor" href="#wiki-updates" aria-label="Permalink to &quot;Wiki Updates&quot;"></a></h3>
+<ul>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/audiopiracyguide#concerts-live-shows" target="_blank" rel="noreferrer">Concerts / Live Shows</a> section to Audio.</p>
+</li>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/audiopiracyguide#genre-specific" target="_blank" rel="noreferrer">Genre Specific</a> section to Audio Downloading.</p>
+</li>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/miscguide#drinks" target="_blank" rel="noreferrer">Drinks section</a> under Food.</p>
+</li>
+<li>
+<p>Moved <a href="https://lostpages.netlify.app/miscguide#collaboration-platforms" target="_blank" rel="noreferrer">Collaboration Platforms</a> out of storage, cleaned up section, and added labels.</p>
+</li>
+<li>
+<p>For individual notes we've stopped linking to pastebins, and instead link our own <a href="https://github.com/Lost Pages/Lost Pages/wiki/Lost Pages%E2%80%90Notes.md" target="_blank" rel="noreferrer">GitHub page</a>.</p>
+</li>
+<li>
+<p>Added a <a href="https://github.com/Lost Pages/Lost Pages/wiki/Stream-Site-Grading" target="_blank" rel="noreferrer">Site Grading System</a> for streaming to help more fairly sort them. This is currently a work in progress and more categories will be added to further separate sites at the top, such as mobile optimization, ad-free streaming, watch list syncing &amp; more.</p>
+</li>
+</ul>
+<hr>
+<h3 id="stars-added-⭐" tabindex="-1">Stars Added ⭐ <a class="header-anchor" href="#stars-added-⭐" aria-label="Permalink to &quot;Stars Added ⭐&quot;"></a></h3>
+<ul>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/ai#online-chatbots" target="_blank" rel="noreferrer">DeepSeek</a> in Online Chatbots. V3 is unlimited and people seem to be really liking it so far.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/videopiracyguide#anime-streaming" target="_blank" rel="noreferrer">AnimeZ</a> in Anime Streaming. Has fast streams and did well in our polls.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/videopiracyguide#download-sites" target="_blank" rel="noreferrer">OOMoye</a> + <a href="https://lostpages.netlify.app/videopiracyguide#drives-directories" target="_blank" rel="noreferrer">PKMovies</a> under Video Download. Both have big libraries, fast hosts and single click downloads.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/gaming-tools#game-saves" target="_blank" rel="noreferrer">Ludusavi</a> in Game Saves. Feature-rich game save manager that supports all platforms.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/videopiracyguide#live-tv" target="_blank" rel="noreferrer">TV Garden</a> in Live TV. Nice UI, lots of channels and consistent compared to similar options.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/android-iosguide#android-youtube-apps" target="_blank" rel="noreferrer">PipePipe</a> in Android YouTube Apps. Feature-rich fork of NewPipe w/ SponsorBlock / ReturnYTDislikes.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/gaming-tools#pokemon-tools" target="_blank" rel="noreferrer">PokéRogue</a> in Pokémon section. Popular and fun Pokémon dungeon crawler.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/video-tools#stream-sync" target="_blank" rel="noreferrer">WatchParty</a> in Stream Sync. Feature-rich app video sync app that seems to work well for people.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/img-tools#gif-tools" target="_blank" rel="noreferrer">Gifski + EZGif</a> under GIF Tools. High quality GIF creation tools.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/android-iosguide#telegram-channels-1" target="_blank" rel="noreferrer">Blatant's IPA Library</a> in iOS Apps. High quality iOS app releases, stands out compared to similar TG groups.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/audiopiracyguide#audio-editors" target="_blank" rel="noreferrer">Reaper</a> under Audio Editors. Feature-rich digital audio workstation. Says its a trial, but trial never actually ends.</p>
+</li>
+<li>
+<p>Added star back to <a href="https://lostpages.netlify.app/gamingpiracyguide#download-games" target="_blank" rel="noreferrer">SteamGG</a> in Game DDL. Game download site with pre-installs and good hosts, similar to SteamRIP.</p>
+</li>
+</ul>
+<hr>
+<h3 id="things-removed" tabindex="-1">Things Removed <a class="header-anchor" href="#things-removed" aria-label="Permalink to &quot;Things Removed&quot;"></a></h3>
+<ul>
+<li>
+<p>Unstarred Firehawk52 as Deezer ARLs are being nuked instantly now.</p>
+</li>
+<li>
+<p>Unstarred IPALibrary, and replaced it with <a href="https://lostpages.netlify.app/android-iosguide#ios-ipas" target="_blank" rel="noreferrer">CodeVN</a> as this is where IPALibrary sources their apps.</p>
+</li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Monthly Updates [January]]]></title>
+            <link>https://lostpages.netlify.app/posts/jan-2025</link>
+            <guid>https://lostpages.netlify.app/posts/jan-2025</guid>
+            <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="nbats"/><div class="info custom-block"><p class="custom-block-title">INFO</p>
+<p>These update threads only contains major updates. If you're interested
+in seeing all minor changes you can follow our
+<a href="https://github.com/Lost Pages/Lost Pagesedit/commits/main" target="_blank" rel="noreferrer">Commits Page</a> on GitHub or
+<a href="https://redd.it/17f8msf" target="_blank" rel="noreferrer">Updates Channel</a> in Discord.</p>
+</div>
+<h3 id="wiki-updates" tabindex="-1">Wiki Updates <a class="header-anchor" href="#wiki-updates" aria-label="Permalink to &quot;Wiki Updates&quot;"></a></h3>
+<ul>
+<li>
+<p>Created <strong><a href="https://guides.Lost Pages.lol/" target="_blank" rel="noreferrer">guides.Lost Pages.lol</a></strong> which lists all the guides we have throughout Lost Pages.</p>
+</li>
+<li>
+<p>Re-ordered <a href="https://lostpages.netlify.app/gamingpiracyguide#download-games" target="_blank" rel="noreferrer">Game DDL</a> based on <a href="https://challonge.com/1mqmqrdq" target="_blank" rel="noreferrer">poll results</a>. Congrats to CS.RIN for coming out on top.</p>
+</li>
+<li>
+<p>Added both <a href="https://lostpages.netlify.app/android-iosguide#ios-sideloading" target="_blank" rel="noreferrer">Sideloading</a> and <a href="https://lostpages.netlify.app/android-iosguide#social-media-apps-1" target="_blank" rel="noreferrer">Social Media App</a> sections to iOS.</p>
+</li>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/audiopiracyguide#last-fm-tools" target="_blank" rel="noreferrer">Last.fm section</a> to Audio Tracking.</p>
+</li>
+<li>
+<p>Cleaned up Font section + split it into subcategories: <a href="https://lostpages.netlify.app/text-tools#open-source-freeware" target="_blank" rel="noreferrer">Open Source</a> / <a href="https://lostpages.netlify.app/text-tools#free-fonts" target="_blank" rel="noreferrer">Free Fonts</a>.</p>
+</li>
+<li>
+<p>Added guides + better descriptions to all the <a href="https://lostpages.netlify.app/android-iosguide#ios-jailbreaking" target="_blank" rel="noreferrer">Jailbreaking Tools</a>.</p>
+</li>
+<li>
+<p>Added License Tags to <a href="https://lostpages.netlify.app/img-tools#stock-images" target="_blank" rel="noreferrer">Stock Photo Sites</a>.</p>
+</li>
+<li>
+<p>De-bloated <a href="https://lostpages.netlify.app/devtools#ides-code-editors" target="_blank" rel="noreferrer">IDEs section</a> in dev tools.</p>
+</li>
+</ul>
+<hr>
+<h3 id="stars-added-⭐" tabindex="-1">Stars Added ⭐ <a class="header-anchor" href="#stars-added-⭐" aria-label="Permalink to &quot;Stars Added ⭐&quot;"></a></h3>
+<ul>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/ai#image-generation" target="_blank" rel="noreferrer">Image FX</a> in Image Gen + <a href="https://lostpages.netlify.app/ai#video-generation" target="_blank" rel="noreferrer">Video FX</a> in Video Gen. AI generators made by Google, US only.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/adblockvpnguide#proxy-sites" target="_blank" rel="noreferrer">Alu</a> in Proxy Sites. Proxy site similar to things like HolyUnblocker.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/system-tools#wallpaper-managers" target="_blank" rel="noreferrer">Lively</a> in Wallpaper Managers. Feature-rich live wallpaper manager for Windows.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/audiopiracyguide#browser-editors-synths" target="_blank" rel="noreferrer">BandLab</a> in Audio Browser Editors. Popular and feature-rich digital audio workstation.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/android-iosguide#app-launchers" target="_blank" rel="noreferrer">Kvaesitso</a> in Android App Launchers. Feature-rich, search focused launcher.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/android-iosguide#ios-sideloading" target="_blank" rel="noreferrer">SideStore</a> in iOS Sideloading. Fork of AltStore that doesn't require PC.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/android-iosguide#ios-youtube-apps" target="_blank" rel="noreferrer">uYouEnhanced</a> in iOS YouTube apps. Modded YouTube IPA.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/linuxguide#software-sites" target="_blank" rel="noreferrer">The Book of Secret Knowledge</a> in Linux Software. Lists, manuals, cheatsheets, tools and more.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/devtools#css" target="_blank" rel="noreferrer">You Don't Need JavaScript</a> in CSS Tools. Curated list of CSS demos.</p>
+</li>
+</ul>
+<hr>
+<h3 id="things-removed" tabindex="-1">Things Removed <a class="header-anchor" href="#things-removed" aria-label="Permalink to &quot;Things Removed&quot;"></a></h3>
+<ul>
+<li>
+<p>Removed Filehaus as they've <a href="https://i.imgur.com/aNPHfAN.png" target="_blank" rel="noreferrer">shut down</a></p>
+</li>
+<li>
+<p>Unstarred GoGoAnime as they're no longer adding new content.</p>
+</li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Monthly Updates [December]]]></title>
+            <link>https://lostpages.netlify.app/posts/dec-2024</link>
+            <guid>https://lostpages.netlify.app/posts/dec-2024</guid>
+            <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="nbats"/><div class="info custom-block"><p class="custom-block-title">INFO</p>
+<p>These update threads only contains major updates. If you're interested
+in seeing all minor changes you can follow our
+<a href="https://github.com/Lost Pages/Lost Pagesedit/commits/main" target="_blank" rel="noreferrer">Commits Page</a> on GitHub or
+<a href="https://redd.it/17f8msf" target="_blank" rel="noreferrer">Updates Channel</a> in Discord.</p>
+</div>
+<h3 id="wiki-updates" tabindex="-1">Wiki Updates <a class="header-anchor" href="#wiki-updates" aria-label="Permalink to &quot;Wiki Updates&quot;"></a></h3>
+<ul>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/video-tools#ffmpeg-tools" target="_blank" rel="noreferrer">FFmpeg section</a> to Video Tools.</p>
+</li>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/adblockvpnguide#anti-censorship" target="_blank" rel="noreferrer">Anti-Censorship</a> section to Proxies.</p>
+</li>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/audiopiracyguide#spotify-playlists" target="_blank" rel="noreferrer">Spotify Playlist Tools</a> section to Audio.</p>
+</li>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/miscguide#household" target="_blank" rel="noreferrer">Household Management</a> section to Misc.</p>
+</li>
+<li>
+<p>Added new subsections to YouTube: <a href="https://lostpages.netlify.app/social-media-tools#video-tools" target="_blank" rel="noreferrer">Video Tools</a> / <a href="https://lostpages.netlify.app/social-media-tools#playlist-tools" target="_blank" rel="noreferrer">Playlist Tools</a> / <a href="https://lostpages.netlify.app/social-media-tools#youtube-archiving" target="_blank" rel="noreferrer">Archiving</a></p>
+</li>
+<li>
+<p>Split Webhosting into subsections: <a href="https://lostpages.netlify.app/storage#free-webhosting-sites" target="_blank" rel="noreferrer">Free Webhosting</a> / <a href="https://lostpages.netlify.app/storage#static-page-hosting" target="_blank" rel="noreferrer">Static Pages</a> / <a href="https://lostpages.netlify.app/storage#dynamic-page-hosting" target="_blank" rel="noreferrer">Dynamic Pages</a> / <a href="https://lostpages.netlify.app/storage#website-builders" target="_blank" rel="noreferrer">Site Builders</a></p>
+</li>
+<li>
+<p>Split <a href="https://lostpages.netlify.app/videopiracyguide#smart-tv-firestick" target="_blank" rel="noreferrer">Smart TV</a> and <a href="https://lostpages.netlify.app/videopiracyguide#android-tv" target="_blank" rel="noreferrer">Android TV</a> into separate sections.</p>
+</li>
+<li>
+<p>Split <a href="https://lostpages.netlify.app/miscguide#physical-health" target="_blank" rel="noreferrer">Physical Health</a> and <a href="https://lostpages.netlify.app/miscguide#workout-exercise" target="_blank" rel="noreferrer">Workout</a> into separate sections.</p>
+</li>
+<li>
+<p>Split <a href="https://lostpages.netlify.app/videopiracyguide#single-server" target="_blank" rel="noreferrer">Single Server</a> and <a href="https://lostpages.netlify.app/videopiracyguide#free-w-ads" target="_blank" rel="noreferrer">Free w/ Ads</a> streaming into separate sections.</p>
+</li>
+<li>
+<p>Moved IPTV Tools out of storage into its own <a href="https://lostpages.netlify.app/videopiracyguide#iptv-tools" target="_blank" rel="noreferrer">dedicated section</a>.</p>
+</li>
+<li>
+<p>Cleaned up both <a href="https://lostpages.netlify.app/storage#free-dns-resolvers" target="_blank" rel="noreferrer">DNS Resolver</a> + <a href="https://lostpages.netlify.app/storage#free-vpn-configs" target="_blank" rel="noreferrer">VPN Config</a> sections.</p>
+</li>
+<li>
+<p>Went through <a href="https://lostpages.netlify.app/ai" target="_blank" rel="noreferrer">AI section</a> and tagged bots that don't require signup.</p>
+</li>
+</ul>
+<hr>
+<h3 id="stars-added-⭐" tabindex="-1">Stars Added ⭐ <a class="header-anchor" href="#stars-added-⭐" aria-label="Permalink to &quot;Stars Added ⭐&quot;"></a></h3>
+<ul>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/system-tools#windows-updates" target="_blank" rel="noreferrer">Windows 10 After EOL</a> in Windows Updates. Continue to receive updates after Win10's End-Of-Life in Oct 2025.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/file-tools#file-explorers" target="_blank" rel="noreferrer">Directory Opus</a> in File Explorers. Powerful and highly customizable windows file manager.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/adblockvpnguide#anti-censorship" target="_blank" rel="noreferrer">Censorship Bypass Guide</a> in Anti-Censorship. Easy to follow censorship bypass guides.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/ai#online-chatbots" target="_blank" rel="noreferrer">Mistral</a> in Online Chatbots. Feature-rich bot which includes web search, a canvas tool, image generation and more.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/audiopiracyguide#audio-ripping-tools" target="_blank" rel="noreferrer">OnTheSpot</a> in Audio Ripping. Spotify Downloader with a GUI that still works after the spotify's changes.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/text-tools#grammar-check" target="_blank" rel="noreferrer">LanguageTool</a> in Grammar Check. This seemed to pick up the most errors when compared to other options.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/adblockvpnguide#proxy-sites" target="_blank" rel="noreferrer">BlockAway</a> in Proxy Sites. Popular proxy site that seems to work well for most people.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/gaming-tools#multiplayer-mods" target="_blank" rel="noreferrer">Plutonium</a> in Multiplayer Mods. The most popular COD multiplayer server mod, works with multiple games.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/videopiracyguide#smart-tv-firestick" target="_blank" rel="noreferrer">webOS Dev Manager</a>. LG TV Homebrew Installer + Guide.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/readingpiracyguide#academic-papers" target="_blank" rel="noreferrer">Citrus Search</a> in Academic Papers. Easily search and find similar papers for any topic.</p>
+</li>
+</ul>
+<hr>
+<h3 id="things-removed" tabindex="-1">Things Removed <a class="header-anchor" href="#things-removed" aria-label="Permalink to &quot;Things Removed&quot;"></a></h3>
+<ul>
+<li>
+<p>Removed free warp keys as they're being revoked now.</p>
+</li>
+<li>
+<p>Removed DramaCool as they're <a href="https://x.com/dramacoolcom/status/1861628424147869919" target="_blank" rel="noreferrer">shutting down</a>. We're aware GogoAnime has also stopped updates, but we're waiting for more news before removing them.</p>
+</li>
+<li>
+<p>Removed both SusFlix and BFlix as they've been offline for over a week.</p>
+</li>
+<li>
+<p>Unstarred multiple streaming sites as we had so many stars they became meaningless. <a href="https://i.ibb.co/QPxKLm2/image.png" target="_blank" rel="noreferrer">Before vs. After</a>.</p>
+</li>
+<li>
+<p>Unstarred Claude as free tier is too limited now.</p>
+</li>
+<li>
+<p>Unstarred ClearURLs as its mostly redundant with adblockers like uBO.</p>
+</li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Monthly Updates [November]]]></title>
+            <link>https://lostpages.netlify.app/posts/nov-2024</link>
+            <guid>https://lostpages.netlify.app/posts/nov-2024</guid>
+            <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="nbats"/><div class="info custom-block"><p class="custom-block-title">INFO</p>
+<p>These update threads only contains major updates. If you're interested
+in seeing all minor changes you can follow our
+<a href="https://github.com/Lost Pages/Lost Pagesedit/commits/main" target="_blank" rel="noreferrer">Commits Page</a> on GitHub or
+<a href="https://redd.it/17f8msf" target="_blank" rel="noreferrer">Updates Channel</a> in Discord.</p>
+</div>
+<h3 id="wiki-updates" tabindex="-1">Wiki Updates <a class="header-anchor" href="#wiki-updates" aria-label="Permalink to &quot;Wiki Updates&quot;"></a></h3>
+<ul>
+<li>
+<p>Added new Lost Pages backup domain: <code>Lost Pages.lol</code></p>
+</li>
+<li>
+<p>The <a href="https://github.com/kenhendricks00/Lost Pages-SafeGuard" target="_blank" rel="noreferrer">Lost Pages SafeGuard</a> extension is ready to be tested. Let us know how it works for you guys, and ty to everyone who made it happen.</p>
+</li>
+<li>
+<p>Split <a href="https://lostpages.netlify.app/downloadpiracyguide#foss-sites" target="_blank" rel="noreferrer">FOSS</a> and <a href="https://lostpages.netlify.app/downloadpiracyguide#freeware-sites" target="_blank" rel="noreferrer">Freeware</a> into separate sections, and cleaned up formatting: <a href="https://i.ibb.co/M5F1Dk7/image.png" target="_blank" rel="noreferrer">before vs after</a>.</p>
+</li>
+<li>
+<p>Split <a href="https://lostpages.netlify.app/text-tools#text-editors" target="_blank" rel="noreferrer">Text Editors</a> and <a href="https://lostpages.netlify.app/text-tools#note-taking" target="_blank" rel="noreferrer">Note-Taking</a> into separate sections, added labels, and removed any that were low quality or abandoned.</p>
+</li>
+<li>
+<p>Split <a href="https://lostpages.netlify.app/audiopiracyguide#radio-streaming" target="_blank" rel="noreferrer">Radio Stations</a> and <a href="https://lostpages.netlify.app/audiopiracyguide#podcast-streaming" target="_blank" rel="noreferrer">Podcasts</a> into separate sections.</p>
+</li>
+<li>
+<p>Added tags to bookmark managers, and removed ones that looked low quality: <a href="https://i.ibb.co/nczmmrv/3453453453.jpg" target="_blank" rel="noreferrer">before vs after</a>.</p>
+</li>
+<li>
+<p>Added tags to Remote Desktop, and removed any that looked low quality: <a href="https://i.ibb.co/jw87F2W/image.png" target="_blank" rel="noreferrer">before vs after</a>.</p>
+</li>
+<li>
+<p>Added tags to Online Image Editors, and removed any that didn't stand out: <a href="https://i.ibb.co/hFwBD6n/34534534.jpg" target="_blank" rel="noreferrer">before vs after</a>.</p>
+</li>
+<li>
+<p>Added tags to Link in Bio, and removed any that seemed low quality: <a href="https://i.ibb.co/BjZ3SpR/image.png" target="_blank" rel="noreferrer">before vs after</a>.</p>
+</li>
+<li>
+<p>Added a <a href="https://lostpages.netlify.app/gamingpiracyguide#special-interest" target="_blank" rel="noreferrer">Special Interests</a> section to gaming, to help debloat the main DDL section a bit.</p>
+</li>
+</ul>
+<hr>
+<h3 id="stars-added-⭐" tabindex="-1">Stars Added ⭐ <a class="header-anchor" href="#stars-added-⭐" aria-label="Permalink to &quot;Stars Added ⭐&quot;"></a></h3>
+<ul>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/social-media-tools#fediverse-tools" target="_blank" rel="noreferrer">Bluesky</a> in Fediverse Tools as everyone is leaving Twitter for it now.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/video-tools#video-editors" target="_blank" rel="noreferrer">Kdenlive</a> in Video Editors. Open-source, feature-rich, multi-platform editor.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/audiopiracyguide#game-soundtracks" target="_blank" rel="noreferrer">Khinsider</a> in Game Soundtracks. Popular soundtrack site with big library.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/video-tools" target="_blank" rel="noreferrer">Camo</a> in Video Tools. Allows you to use any device as a webcam.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/storage#live-radio" target="_blank" rel="noreferrer">FMSTREAM</a> in Radio Streaming. The biggest online radio directory on the internet.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/android-iosguide#android-internet" target="_blank" rel="noreferrer">Thunderbird</a> in Android Internet as its just a better version of K-9 Mail.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/img-tools#online-editors" target="_blank" rel="noreferrer">Pixlr</a> in Online Image Editors. Feature-rich editor with nice UI. Has daily limit but it can be bypassed with the script linked.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/social-media-tools#discord-tools" target="_blank" rel="noreferrer">x266.mov</a> in Discord Tools. Allows you to embed large videos on Discord.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/audiopiracyguide#spotify-tools" target="_blank" rel="noreferrer">Playlists.cloud</a> in Spotify Tools. Unlimited playlist transfer between Spotify / Apple Music.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/edupiracyguide#downloading" target="_blank" rel="noreferrer">InfiCourses</a> in Course DDL. Big library with courses tough to find elsewhere.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/img-tools#drawing" target="_blank" rel="noreferrer">Excalidraw</a> in Drawing Tools. Feature-rich compared to similar web apps.</p>
+</li>
+<li>
+<p>Went through <a href="https://lostpages.netlify.app/storage#sms-verification-sites" target="_blank" rel="noreferrer">SMS verification</a> and starred ones that stood out the most.</p>
+</li>
+</ul>
+<hr>
+<h3 id="things-removed" tabindex="-1">Things Removed <a class="header-anchor" href="#things-removed" aria-label="Permalink to &quot;Things Removed&quot;"></a></h3>
+<ul>
+<li>
+<p>Removed Mutaz as they no longer host cracked software.</p>
+</li>
+<li>
+<p>Removed Feynas free tier is too limited now.</p>
+</li>
+<li>
+<p>Unstarred BetterDiscord as it runs poorly for many people due to bad optimization, and there are better options like Vencord.</p>
+</li>
+<li>
+<p>Unstarred OlaMovies as they now require google logins.</p>
+</li>
+<li>
+<p>Unstarred PDALife as many apps are outdated, their official app isn't maintained, and there are better sites.</p>
+</li>
+<li>
+<p>Unstarred Not Diamond as it isn't unlimited anymore.</p>
+</li>
+<li>
+<p>Unstarred ElevenLabs as its capped at 10 mins ⁠limiting its usefulness.</p>
+</li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Internet Archive Breach]]></title>
+            <link>https://lostpages.netlify.app/posts/Internet-Archive</link>
+            <guid>https://lostpages.netlify.app/posts/Internet-Archive</guid>
+            <pubDate>Wed, 09 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="nbats" /><h4 id="internet-archive-was-hacked-today-all-31-million-accounts-have-had-their-details-leaked-if-you-have-an-account-its-highly-recommended-to-change-your-password-on-the-site-as-well-as-anywhere-else-you-are-using-the-same-login-details" tabindex="-1">Internet Archive was hacked today, all 31 million accounts have had their details leaked. If you have an account its <em>highly</em> recommended to change your password on the site, as well as anywhere else you are using the same login details. <a class="header-anchor" href="#internet-archive-was-hacked-today-all-31-million-accounts-have-had-their-details-leaked-if-you-have-an-account-its-highly-recommended-to-change-your-password-on-the-site-as-well-as-anywhere-else-you-are-using-the-same-login-details" aria-label="Permalink to &quot;Internet Archive was hacked today, all 31 million accounts have had their details leaked. If you have an account its *highly* recommended to change your password on the site, as well as anywhere else you are using the same login details.&quot;"></a></h4>
+<ul>
+<li>
+<p><a href="https://www.bleepingcomputer.com/news/security/internet-archive-hacked-data-breach-impacts-31-million-users/" target="_blank" rel="noreferrer">https://www.bleepingcomputer.com/news/security/internet-archive-hacked-data-breach-impacts-31-million-users/</a></p>
+</li>
+<li>
+<p><a href="https://haveibeenpwned.com/" target="_blank" rel="noreferrer">https://haveibeenpwned.com/</a></p>
+</li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Monthly Updates [Oct 2024]]]></title>
+            <link>https://lostpages.netlify.app/posts/oct-2024</link>
+            <guid>https://lostpages.netlify.app/posts/oct-2024</guid>
+            <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="nbats"/><div class="info custom-block"><p class="custom-block-title">INFO</p>
+<p>These update threads only contains major updates. If you're interested
+in seeing all minor changes you can follow our
+<a href="https://github.com/Lost Pages/Lost Pagesedit/commits/main" target="_blank" rel="noreferrer">Commits Page</a> on GitHub or
+<a href="https://redd.it/17f8msf" target="_blank" rel="noreferrer">Updates Channel</a> in Discord.</p>
+</div>
+<h3 id="wiki-updates" tabindex="-1">Wiki Updates <a class="header-anchor" href="#wiki-updates" aria-label="Permalink to &quot;Wiki Updates&quot;"></a></h3>
+<ul>
+<li>
+<p>Did a complete overhaul of the <strong><a href="https://lostpages.netlify.app/beginners-guide" target="_blank" rel="noreferrer">Beginners Guide</a></strong>. Removed outdated links, added new sites, and rewrote all the tips.</p>
+</li>
+<li>
+<p>Reorganized the <a href="https://lostpages.netlify.app/videopiracyguide#anime-streaming" target="_blank" rel="noreferrer">Anime Streaming</a> section based on <strong><a href="https://challonge.com/Anime_Streaming.svg" target="_blank" rel="noreferrer">tournament results</a></strong>.</p>
+</li>
+<li>
+<p>Reorganized both <a href="https://ibb.co/X7SC3f8" target="_blank" rel="noreferrer">Multi / Single Hosts</a> in the <a href="https://lostpages.netlify.app/videopiracyguide" target="_blank" rel="noreferrer">Streaming section</a> as people felt they were somewhat outdated.</p>
+</li>
+<li>
+<p>Added section for <a href="https://lostpages.netlify.app/gaming-tools#steam-deck" target="_blank" rel="noreferrer">Steam Deck</a> in Gaming Tools.</p>
+</li>
+</ul>
+<hr>
+<h3 id="stars-added-⭐" tabindex="-1">Stars Added ⭐ <a class="header-anchor" href="#stars-added-⭐" aria-label="Permalink to &quot;Stars Added ⭐&quot;"></a></h3>
+<ul>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/videopiracyguide#drives-directories" target="_blank" rel="noreferrer">datadiff</a> in Drives / Directories. Media directory with fast download speed, similar to vadapav / moo.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/internet-tools#password-managers" target="_blank" rel="noreferrer">Proton Pass</a> in Password Managers. Feature-rich manager comparable with things like Bitwarden.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/videopiracyguide#anime-streaming" target="_blank" rel="noreferrer">Miruro</a> in Anime Streaming. This was the winner of our anime streaming polls.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/android-iosguide#modded-apks" target="_blank" rel="noreferrer">RockMods</a> in Modded APKs. RockMods label all their releases correctly, and are usually one of the main sources of other groups.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/readingpiracyguide#educational-books" target="_blank" rel="noreferrer">Openstax</a> in Educational Books. Well-organized educational textbook site.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/android-iosguide#number-sms" target="_blank" rel="noreferrer">Yet Another Call Blocker</a> in Number / SMS. Hasn't been updated in awhile, but it doesn't need to be as its connected to a crowdsourced number <a href="https://www.shouldianswer.com/" target="_blank" rel="noreferrer">database</a>.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/android-iosguide#android-privacy" target="_blank" rel="noreferrer">UrlCheck</a> in Android Privacy. Customizable open-source URL cleaner for android.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/system-tools#wallpapers" target="_blank" rel="noreferrer">Rev Wallpaper</a> in Wallpapers. Reverse wallpaper search engine.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/internet-tools#browser-tools" target="_blank" rel="noreferrer">Edge-Remover</a> in Browser Tools. Easy way to uninstall microsoft edge.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/videopiracyguide#anime-streaming" target="_blank" rel="noreferrer">Akuse</a> in Anime Streaming. Open-source anime app with nice UI.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/videopiracyguide#calendar-upcoming" target="_blank" rel="noreferrer">Movies Countdown</a> in Calendar / Upcoming. Tracks upcoming movie releases, both digital and theater.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/storage#tab-managers" target="_blank" rel="noreferrer">Simple Tab Groups</a> in Tab Managers. Feature-rich tab manager with plugin support.</p>
+</li>
+</ul>
+<hr>
+<h3 id="things-removed" tabindex="-1">Things Removed <a class="header-anchor" href="#things-removed" aria-label="Permalink to &quot;Things Removed&quot;"></a></h3>
+<ul>
+<li>
+<p>Removed Essential from minecraft mods as they have a history of malicious practices and there are better options anyways.</p>
+</li>
+<li>
+<p>Removed Slider as they've been <a href="https://ibb.co/NnY4M8b" target="_blank" rel="noreferrer">shut down</a>.</p>
+</li>
+<li>
+<p>Removed AnimeOut as they've closed signups.</p>
+</li>
+<li>
+<p>Unstarred LookMovie as they've locked 720p <a href="https://ibb.co/9W50NTg" target="_blank" rel="noreferrer">behind a paywall</a>.</p>
+</li>
+<li>
+<p>Unstarred Modyolo and LiteAPKs as both mislabel releases from other groups as their own, and tag apps as newer versions than actually exist in order to get more downloads.</p>
+</li>
+<li>
+<p>Unstarred Gemini as many people consider it less useful than other AI.</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Unstarred Duolingo as there are better ways to learn languages.</p>
+</li>
+<li>
+<p>Unstarred Tixati as its closed source and there better options like qbit, transmission, deluge.</p>
+</li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Monthly Updates [Sept]]]></title>
+            <link>https://lostpages.netlify.app/posts/sept-2024</link>
+            <guid>https://lostpages.netlify.app/posts/sept-2024</guid>
+            <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="nbats"/><div class="info custom-block"><p class="custom-block-title">INFO</p>
+<p>These update threads only contains major updates. If you're interested
+in seeing all minor changes you can follow our
+<a href="https://github.com/Lost Pages/Lost Pagesedit/commits/main" target="_blank" rel="noreferrer">Commits Page</a> on GitHub or
+<a href="https://redd.it/17f8msf" target="_blank" rel="noreferrer">Updates Channel</a> in Discord.</p>
+</div>
+<h3 id="wiki-updates" tabindex="-1">Wiki Updates <a class="header-anchor" href="#wiki-updates" aria-label="Permalink to &quot;Wiki Updates&quot;"></a></h3>
+<ul>
+<li>
+<p>Made <a href="https://i.ibb.co/4ThbdyN/image.png" target="_blank" rel="noreferrer">multiple updates</a> to our site and feedback system. All pages are now <a href="https://lostpages.netlify.app/" target="_blank" rel="noreferrer">visible</a> on the front page, feedback can now be <a href="https://i.ibb.co/k8p2rcF/image.png" target="_blank" rel="noreferrer">sent from any section</a>, and <a href="https://i.ibb.co/tBMwXXy/image.png" target="_blank" rel="noreferrer">site icons</a> have been added for discord, telegram, reddit, git etc.</p>
+</li>
+<li>
+<p>Created a <a href="https://github.com/Lost Pages/bookmarks" target="_blank" rel="noreferrer">method</a> to add all of Lost Pages to your bookmarks.</p>
+</li>
+<li>
+<p>Added subsections to Minecraft Tools: <a href="https://lostpages.netlify.app/gaming-tools#hosting-tools" target="_blank" rel="noreferrer">Hosting</a>, <a href="https://lostpages.netlify.app/gaming-tools#launchers" target="_blank" rel="noreferrer">Launchers</a>, <a href="https://lostpages.netlify.app/gaming-tools#mods-data-packs" target="_blank" rel="noreferrer">Data Packs</a>, <a href="https://lostpages.netlify.app/gaming-tools#maps-world-tools" target="_blank" rel="noreferrer">Map Tools</a>, <a href="https://lostpages.netlify.app/gaming-tools#technical-tools" target="_blank" rel="noreferrer">Technical Tools</a>, <a href="https://lostpages.netlify.app/gaming-tools#customization" target="_blank" rel="noreferrer">Customization</a> and <a href="https://lostpages.netlify.app/gaming-tools#_3d-tools" target="_blank" rel="noreferrer">3D Tools</a>.</p>
+</li>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/ai#chatgpt-tools" target="_blank" rel="noreferrer">ChatGPT Tools</a>, <a href="https://lostpages.netlify.app/ai#ai-benchmarks" target="_blank" rel="noreferrer">AI Benchmarks</a> and <a href="https://lostpages.netlify.app/ai#ai-search-engines" target="_blank" rel="noreferrer">AI Search Engine</a> sections to AI.</p>
+</li>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/android-iosguide#youtube-music-clients" target="_blank" rel="noreferrer">YouTube Music</a> and <a href="https://lostpages.netlify.app/android-iosguide#ios-youtube-apps" target="_blank" rel="noreferrer">YouTube App</a> (ios) sections to Mobile.</p>
+</li>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/devtools#coding-tools" target="_blank" rel="noreferrer">Coding Tools</a> and <a href="https://lostpages.netlify.app/devtools#android-code-editors" target="_blank" rel="noreferrer">Android Code Editor</a> sections to Code Editors.</p>
+</li>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/gamingpiracyguide#geoguessr-games" target="_blank" rel="noreferrer">Geoguessr</a> section to Browser Games.</p>
+</li>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/file-tools#cloud-managers" target="_blank" rel="noreferrer">Cloud Managers</a> section to File Tools.</p>
+</li>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/edupiracyguide#jee-neet" target="_blank" rel="noreferrer">JEE / NEET</a> section in Edu Tools.</p>
+</li>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/videopiracyguide#streaming-apis" target="_blank" rel="noreferrer">Streaming APIs</a> section to Streaming.</p>
+</li>
+<li>
+<p>Split Audiobooks into <a href="https://lostpages.netlify.app/readingpiracyguide#downloading" target="_blank" rel="noreferrer">Downloading</a> and <a href="https://lostpages.netlify.app/readingpiracyguide#streaming" target="_blank" rel="noreferrer">Streaming</a>.</p>
+</li>
+<li>
+<p>Made Lost Pages site logo easier to switch (click it 5 times).</p>
+</li>
+<li>
+<p>Our filterlist has been moved to <a href="https://Lost Pages.github.io/Lost PagesFilterlist/site/index.html" target="_blank" rel="noreferrer">here</a>, and our markdown page to <a href="https://api.Lost Pages.net/single-page" target="_blank" rel="noreferrer">here</a>.</p>
+</li>
+</ul>
+<hr>
+<h3 id="stars-added-⭐" tabindex="-1">Stars Added ⭐ <a class="header-anchor" href="#stars-added-⭐" aria-label="Permalink to &quot;Stars Added ⭐&quot;"></a></h3>
+<ul>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/readingpiracyguide#ebooks" target="_blank" rel="noreferrer">Bookracy</a> in Ebook Sites. Promising book site with solid UI and community.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/android-iosguide#foss-apks" target="_blank" rel="noreferrer">Droid-ify</a> in FOSS APKs. Open source F-Droid client some like more than the official.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/adblockvpnguide#adblocking" target="_blank" rel="noreferrer">Disblock Origin</a> in Adblocking. Removes nitro / boost ads from Discord.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/storage#tab-managers" target="_blank" rel="noreferrer">Sidebery</a> in Tab Managers. Useful open source tab manager / bookmark manager.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/ai#image-generation" target="_blank" rel="noreferrer">FastFLUX</a> in AI Image Gen. Good quality and currently unlimited.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/ai#ai-search-engines" target="_blank" rel="noreferrer">You</a> in AI Search Engines. Fast, free, unlimited AI search.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/readingpiracyguide#fanfiction-stories" target="_blank" rel="noreferrer">Archive of Our Own</a> in Fanfiction Sites. Popular and extensive archive of fanfiction.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/social-media-tools#telegram-clients" target="_blank" rel="noreferrer">Materialgram</a> and <a href="https://lostpages.netlify.app/android-iosguide#social-media-apps" target="_blank" rel="noreferrer">AyuGram</a> (android) in Telegram Clients. Simple, ad-free, feature-rich clients.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/storage#royalty-free-music" target="_blank" rel="noreferrer">NCS</a> in Royalty Free Music. Popular library for free music.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/android-iosguide#android-internet" target="_blank" rel="noreferrer">K-9 Mail</a> in Android Internet. Open source mobile mail client.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/gaming-tools#optimization-tools" target="_blank" rel="noreferrer">Lossless Scaling</a> in Game Optimization. Powerful upscaling with frame generation for all GPUs.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/system-tools#mouse-keyboard" target="_blank" rel="noreferrer">Hotkey Cheatsheet</a> in Keyboard Tools. Keyboard hotkeys for lots of different apps.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/videopiracyguide#stremio-tools" target="_blank" rel="noreferrer">Viren070's Guides</a> in Stremio Tools. Helpful guides to use Stremio.</p>
+</li>
+</ul>
+<hr>
+<h3 id="things-removed" tabindex="-1">Things Removed <a class="header-anchor" href="#things-removed" aria-label="Permalink to &quot;Things Removed&quot;"></a></h3>
+<ul>
+<li>
+<p>Said Goodbye to both Fmovies and Aniwave.</p>
+</li>
+<li>
+<p>Removed SusFlix as its been down for over a week.</p>
+</li>
+<li>
+<p>Removed Lantern as its limit is low (250mb daily) and its closed source.</p>
+</li>
+<li>
+<p>Removed Lexica as they're removing the free tier.</p>
+</li>
+<li>
+<p>Unstarred APKPure due to their poor privacy policy + low quality apps.</p>
+</li>
+<li>
+<p>Unstarred ROMhacking as they're going <a href="https://www.romhacking.net/forum/index.php?topic=39405" target="_blank" rel="noreferrer">archive only</a>.</p>
+</li>
+<li>
+<p>Unstarred Morphic as they will <a href="https://i.ibb.co/sRVyVKk/image.png" target="_blank" rel="noreferrer">no longer</a> be using paid models for searching.</p>
+</li>
+<li>
+<p>Unstarred sdk.vercel as it requires an account for the better models.</p>
+</li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Monthly Updates [August]]]></title>
+            <link>https://lostpages.netlify.app/posts/aug-2024</link>
+            <guid>https://lostpages.netlify.app/posts/aug-2024</guid>
+            <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="nbats"/><div class="info custom-block"><p class="custom-block-title">INFO</p>
+<p>These update threads only contains major updates. If you're interested
+in seeing all minor changes you can follow our
+<a href="https://github.com/Lost Pages/Lost Pagesedit/commits/main" target="_blank" rel="noreferrer">Commits Page</a> on GitHub or
+<a href="https://redd.it/17f8msf" target="_blank" rel="noreferrer">Updates Channel</a> in Discord.</p>
+</div>
+<h3 id="wiki-updates" tabindex="-1">Wiki Updates <a class="header-anchor" href="#wiki-updates" aria-label="Permalink to &quot;Wiki Updates&quot;"></a></h3>
+<ul>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/internet-tools#url-tools" target="_blank" rel="noreferrer">URL Tools</a> section with
+subsections: <a href="https://lostpages.netlify.app/internet-tools#url-shorteners" target="_blank" rel="noreferrer">Shorteners</a>,
+<a href="https://lostpages.netlify.app/internet-tools#url-unshorteners" target="_blank" rel="noreferrer">Unshorteners</a>,
+<a href="https://lostpages.netlify.app/internet-tools#down-site-checkers" target="_blank" rel="noreferrer">Site Checks</a> and
+<a href="https://lostpages.netlify.app/internet-tools#domain-dns" target="_blank" rel="noreferrer">Domain / DNS</a>.</p>
+</li>
+<li>
+<p>Split Search Tools into subsections:
+<a href="https://lostpages.netlify.app/internet-tools#search-engines" target="_blank" rel="noreferrer">Search Engines</a>,
+<a href="https://lostpages.netlify.app/internet-tools#custom-search-engines" target="_blank" rel="noreferrer">Custom Engines</a> and
+<a href="https://lostpages.netlify.app/internet-tools#google-search-tools" target="_blank" rel="noreferrer">Google Tools</a>.</p>
+</li>
+<li>
+<p>Split Multiplayer Tools into subsections:
+<a href="https://lostpages.netlify.app/gaming-tools#multiplayer-fixes" target="_blank" rel="noreferrer">Fixes</a>,
+<a href="https://lostpages.netlify.app/gaming-tools#multiplayer-mods" target="_blank" rel="noreferrer">Mods</a> and
+<a href="https://lostpages.netlify.app/gaming-tools#multiplayer-servers" target="_blank" rel="noreferrer">Servers</a>.</p>
+</li>
+<li>
+<p>Split Game Dev Tools into subsections:
+<a href="https://lostpages.netlify.app/devtools#game-engines" target="_blank" rel="noreferrer">Game Engines</a>,
+<a href="https://lostpages.netlify.app/devtools#asset-creation" target="_blank" rel="noreferrer">Asset Creation</a> and
+<a href="https://lostpages.netlify.app/devtools#map-creators-editors" target="_blank" rel="noreferrer">Map Creators</a>.</p>
+</li>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/text-tools#office-suites" target="_blank" rel="noreferrer">Office Suites</a> section to
+Text Tools.</p>
+</li>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/system-tools#wallpaper-managers" target="_blank" rel="noreferrer">Wallpaper Managers</a>
+section to Customization.</p>
+</li>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/internet-tools#captcha-tools" target="_blank" rel="noreferrer">Captcha Tools</a> section
+to Internet Tools.</p>
+</li>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/social-media-tools#tumblr-tools" target="_blank" rel="noreferrer">Tumblr Tools</a> section
+to Social Media Tools.</p>
+</li>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/video-tools#vtuber-tools" target="_blank" rel="noreferrer">VTuber Tools</a> section to
+Video Tools.</p>
+</li>
+<li>
+<p>Added warning to Vadapav NOT to use DL managers to bulk download anymore as
+they're <a href="https://ibb.co/VvrZMXQ" target="_blank" rel="noreferrer">banning</a> for it now. You can still use DL
+managers, just download at a reasonable pace please.</p>
+</li>
+<li>
+<p>Decided to pull the plug on the feedback forum (feedback.Lost Pages.net), and
+instead enable the
+<a href="https://discord.com/blog/forum-channels-space-for-organized-conversation" target="_blank" rel="noreferrer">forums feature</a>
+in our <a href="https://discord.gg/5W9QJKuPkD" target="_blank" rel="noreferrer">discord</a>. We now have forums for giving
+suggestions, getting support, and testing links.</p>
+</li>
+</ul>
+<hr>
+<h3 id="stars-added-⭐" tabindex="-1">Stars Added ⭐ <a class="header-anchor" href="#stars-added-⭐" aria-label="Permalink to &quot;Stars Added ⭐&quot;"></a></h3>
+<ul>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/audiopiracyguide#audio-ripping-sites" target="_blank" rel="noreferrer">lucida</a> in
+Audio Ripping. Multi-site audio ripping with 320kb / FLAC support.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/text-tools#online-editors" target="_blank" rel="noreferrer">Proton Docs</a> in Text
+Tools. Protons google docs alternative.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/video-tools#online-editors" target="_blank" rel="noreferrer">Pikimov</a> in Online Video
+Editors. Online adobe after effects alternative.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/videopiracyguide#live-sports" target="_blank" rel="noreferrer">Flowstreams</a> in Live
+Sports. Live sports / music events.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/videopiracyguide#sports-replays" target="_blank" rel="noreferrer">FullReplays</a> in
+sports replays. Full soccer match replays.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/android-iosguide#untouched-apks" target="_blank" rel="noreferrer">Aurora Store</a> in
+Untouched APKs. FOSS version of the Play Store.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/adblockvpnguide#privacy-indexes" target="_blank" rel="noreferrer">No Trace</a> in
+Privacy Indexes. In-depth privacy guides / anti-surveillance.</p>
+</li>
+<li>
+<p>Starred
+<a href="https://lostpages.netlify.app/android-iosguide#keyboard-text" target="_blank" rel="noreferrer">Futo Keyboard / Voice</a> in
+Android Keyboard Tools. Privacy-focused keyboards.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/android-iosguide#social-media-apps" target="_blank" rel="noreferrer">Piko</a> in Android
+Social Media. ReVanced patches for X.com.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/storage#minecraft-server-tools" target="_blank" rel="noreferrer">auto-mcs</a> in
+Minecraft Server Tools. Simple Minecraft server setup.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/miscguide#random" target="_blank" rel="noreferrer">Vijay's Virtual Vibes</a> in Fun
+Sites. Find random sites.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/ai#coding-ais" target="_blank" rel="noreferrer">Codeium</a> in Coding AIs. Popular
+coding AI with unlimited GPT-3.5.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/gamingpiracyguide#strategy" target="_blank" rel="noreferrer">Print Chess</a> in Strategy
+Games. Printable paper chess set.</p>
+</li>
+<li>
+<p>Starred both Streamflix and PrimeFlix in
+<a href="https://lostpages.netlify.app/videopiracyguide" target="_blank" rel="noreferrer">Multi Host</a>. Both sites have improved a
+lot recently.</p>
+</li>
+<li>
+<p>Re-added + Starred <a href="https://lostpages.netlify.app/internet-tools#temp-mail" target="_blank" rel="noreferrer">Gmailnator</a>.
+Temp mail site with gmail address'.</p>
+</li>
+</ul>
+<hr>
+<h3 id="things-removed" tabindex="-1">Things Removed <a class="header-anchor" href="#things-removed" aria-label="Permalink to &quot;Things Removed&quot;"></a></h3>
+<ul>
+<li>
+<p>Removed Fmovies as its been offline for weeks. We've replaced it with
+<a href="https://lostpages.netlify.app/videopiracyguide#multi-server" target="_blank" rel="noreferrer">FBOX</a> for now.</p>
+</li>
+<li>
+<p>Removed Cipher Files as they've <a href="https://ibb.co/gzYX4Gb" target="_blank" rel="noreferrer">shutdown</a>.</p>
+</li>
+<li>
+<p>Removed Homeworkify as they've <a href="https://ibb.co/wJp6B3b" target="_blank" rel="noreferrer">shutdown</a>.</p>
+</li>
+<li>
+<p>Unstarred both Awesome Privacy and Hitchhiker’s Guide in Privacy Indexes, and
+bumped PrivacyGuides.org to the top. PrivacyGuides is high quality and updated
+more often than others.</p>
+</li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Monthly Updates [July]]]></title>
+            <link>https://lostpages.netlify.app/posts/july-2024</link>
+            <guid>https://lostpages.netlify.app/posts/july-2024</guid>
+            <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="nbats"/><div class="info custom-block"><p class="custom-block-title">INFO</p>
+<p>These update threads only contains major updates. If you're interested
+in seeing all minor changes you can follow our
+<a href="https://github.com/Lost Pages/Lost Pagesedit/commits/main" target="_blank" rel="noreferrer">Commits Page</a> on GitHub or
+<a href="https://redd.it/17f8msf" target="_blank" rel="noreferrer">Updates Channel</a> in Discord.</p>
+</div>
+<h2 id="tournament-results" tabindex="-1">Tournament Results <a class="header-anchor" href="#tournament-results" aria-label="Permalink to &quot;Tournament Results&quot;"></a></h2>
+<p>We did another streaming sites tournament to help us better re-order and clean
+up the section. When we did this publicly the first time there was obvious
+cheating, so we decided to make this more private, and allowed only members with
+discord roles to vote. During each round we also had discussions about the sites
+which can be viewed in our discord polls channel. These discussions were taken
+into account when reordering, but for the most part we relied on the voting
+results.</p>
+<p>In the end some sites managed to keep their previous spots, a few have been
+starred, unstarred, or even removed if they were low quality / broken. If you
+see a round with no votes either way, it means one of the sites was DQ'd.</p>
+<h2 id="final-results-before-vs-after" tabindex="-1"><a href="https://challonge.com/Multi_Host_Streaming.svg" target="_blank" rel="noreferrer">Final Results</a> / <a href="https://i.imgur.com/MXN0mR5.png" target="_blank" rel="noreferrer">Before vs. After</a> <a class="header-anchor" href="#final-results-before-vs-after" aria-label="Permalink to &quot;[Final Results](https://challonge.com/Multi_Host_Streaming.svg) / [Before vs. After](https://i.imgur.com/MXN0mR5.png)&quot;"></a></h2>
+<p>We'll be doing more tournaments in the future, so make sure to join our discord
+if you want to be a part of them, and let us know which sections you'd like to
+see most.</p>
+<hr>
+<h3 id="wiki-updates" tabindex="-1">Wiki Updates <a class="header-anchor" href="#wiki-updates" aria-label="Permalink to &quot;Wiki Updates&quot;"></a></h3>
+<ul>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/videopiracyguide#stremio-tools" target="_blank" rel="noreferrer">Stremio Tools</a> section
+to Streaming.</p>
+</li>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/ai#video-generation" target="_blank" rel="noreferrer">Video Generation</a> section to AI.</p>
+</li>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/text-tools#audio-transcription" target="_blank" rel="noreferrer">Audio Transcription</a>
+section to Text Tools.</p>
+</li>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/system-tools#system-audio" target="_blank" rel="noreferrer">System Audio</a> and
+<a href="https://lostpages.netlify.app/system-tools#usb-bootloaders" target="_blank" rel="noreferrer">USB / Bootloaders</a> sections to
+System Tools.</p>
+</li>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/adblockvpnguide#network-security" target="_blank" rel="noreferrer">Network Security</a>
+section to Privacy.</p>
+</li>
+<li>
+<p>Added
+<a href="https://lostpages.netlify.app/readingpiracyguide#fanfiction-stories" target="_blank" rel="noreferrer">Fanfiction / Stories</a>
+section to Reading.</p>
+</li>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/audiopiracyguide#audio-metadata" target="_blank" rel="noreferrer">Audio Metadata</a>
+section to Audio.</p>
+</li>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/linuxguide#wayland-compositors" target="_blank" rel="noreferrer">Wayland Compositors</a>
+section to Linux.</p>
+</li>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/storage#latex-tools" target="_blank" rel="noreferrer">Latex Tools</a> section to Math.</p>
+</li>
+<li>
+<p>Turned <a href="https://lostpages.netlify.app/internet-tools#email-tools" target="_blank" rel="noreferrer">Email Tools</a> into a main
+section with subsections.</p>
+</li>
+<li>
+<p>Split Subtitle section into
+<a href="https://lostpages.netlify.app/videopiracyguide#subtitles" target="_blank" rel="noreferrer">Tools</a> and
+<a href="https://lostpages.netlify.app/videopiracyguide#download-subtitles" target="_blank" rel="noreferrer">Downloads</a>.</p>
+</li>
+<li>
+<p>Added multiple (15) new sections to
+<a href="https://Lost Pages.pages.dev/devtools" target="_blank" rel="noreferrer">Dev Tools</a>, and cleaned up a lot of old
+sections.</p>
+</li>
+<li>
+<p>Cleaned up <a href="https://Lost Pages.pages.dev/video-tools#video-file-hosts" target="_blank" rel="noreferrer">Video Hosts</a>,
+<a href="https://lostpages.netlify.app/img-tools#image-optimization" target="_blank" rel="noreferrer">Image Optimization</a> and
+<a href="https://lostpages.netlify.app/img-tools#icons-avatars" target="_blank" rel="noreferrer">Icons / Avatars</a> sections.</p>
+</li>
+<li>
+<p>Started adding Non-English spellings (i.e. Chinese / 汉语方言) to titles in
+the <a href="https://Lost Pages.pages.dev/non-english" target="_blank" rel="noreferrer">Non-Eng section</a>. We haven't been
+able to translate all the sections yet, so if you can help fill in the blanks
+please send your translations in the comments.</p>
+</li>
+</ul>
+<hr>
+<h3 id="stars-added-⭐" tabindex="-1">Stars Added ⭐ <a class="header-anchor" href="#stars-added-⭐" aria-label="Permalink to &quot;Stars Added ⭐&quot;"></a></h3>
+<ul>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/file-tools#file-hosts" target="_blank" rel="noreferrer">Hidan</a> in File Hosts. Fast,
+unlimited size, no account required, publishes when they remove files.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/system-tools#custom-themes" target="_blank" rel="noreferrer">Catppuccin</a> in Custom
+Themes. High quality pastel system app themes.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/internet-tools#link-in-bio-sites" target="_blank" rel="noreferrer">Bio Link</a> in Link
+in Bio Sites. Feature-rich, nice UI, stood out to us when going through the
+section.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/gamingpiracyguide#emulators" target="_blank" rel="noreferrer">RetroAchievements</a> in
+Emulators. Add achievements to retro games / ROMs.</p>
+</li>
+<li>
+<p>Starred <a href="https://www.reddit.com/r/translator/" target="_blank" rel="noreferrer">/r/Translator</a> in Translators.
+Allows you to request translations of almost anything.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/ai#online-chatbots" target="_blank" rel="noreferrer">sdk.vercel</a> in Online Chatbots.
+Chatbot playground with unlimited GPT-4o.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/android-iosguide#foss-apks" target="_blank" rel="noreferrer">FossifyOrg</a> in FOSS
+APKs. Covers most basic apps, minimal UI.</p>
+</li>
+<li>
+<p>Starred
+<a href="https://lostpages.netlify.app/android-iosguide#optimization" target="_blank" rel="noreferrer">Universal Android Debloater</a>
+in Android Optimization. Updated fork of original UAD.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/android-iosguide#android-privacy" target="_blank" rel="noreferrer">Amarok</a> in Android
+Privacy. Easily hide private files / apps on android.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/android-iosguide#ios-apps" target="_blank" rel="noreferrer">Sideloadly</a> in iOS Apps.
+Lightweight, simple setup, auto-updates apps.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/android-iosguide#ios-audio" target="_blank" rel="noreferrer">EeveeSpotify</a> in iOS
+Audio. Updated Spotify premium app now that spotilife has stopped working.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/android-iosguide#smart-tv-firestick" target="_blank" rel="noreferrer">S0undTV</a> in
+Firestick. Ad-free Twitch for Firestick.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/miscguide#random" target="_blank" rel="noreferrer">Uncyclopedia</a> in Fun Sites.</p>
+</li>
+<li>
+<p>Added star back to <a href="https://lostpages.netlify.app/gaming-tools#roblox-tools" target="_blank" rel="noreferrer">Bloxstrap</a>.
+Most issues are being fixed and repo seems to be active again.</p>
+</li>
+</ul>
+<hr>
+<h3 id="things-removed" tabindex="-1">Things Removed <a class="header-anchor" href="#things-removed" aria-label="Permalink to &quot;Things Removed&quot;"></a></h3>
+<ul>
+<li>
+<p>Unstarred Vimms, they thought it was trolls at first, but now
+<a href="https://i.ibb.co/Dp9Kwk4/image.png" target="_blank" rel="noreferrer">Lego and Sega</a> have both joined to take
+down games.</p>
+</li>
+<li>
+<p>Unstarred XDM + Motrix, neither is updated as often as other big DL managers
+and XDM gives people issues on mobile.</p>
+</li>
+<li>
+<p>Unstarred SKLauncher, its closed-source, cant download with adblock enabled,
+and we have better MC launchers listed anyways.</p>
+</li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Monthly Updates [June]]]></title>
+            <link>https://lostpages.netlify.app/posts/june-2024</link>
+            <guid>https://lostpages.netlify.app/posts/june-2024</guid>
+            <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="nbats"/><div class="info custom-block"><p class="custom-block-title">INFO</p>
+<p>These update threads only contains major updates. If you're interested
+in seeing all minor changes you can follow our
+<a href="https://github.com/Lost Pages/Lost Pagesedit/commits/main" target="_blank" rel="noreferrer">Commits Page</a> on GitHub or
+<a href="https://redd.it/17f8msf" target="_blank" rel="noreferrer">Updates Channel</a> in Discord.</p>
+</div>
+<h3 id="wiki-updates" tabindex="-1">Wiki Updates <a class="header-anchor" href="#wiki-updates" aria-label="Permalink to &quot;Wiki Updates&quot;"></a></h3>
+<ul>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/gaming-tools#switch-homebrew" target="_blank" rel="noreferrer">Switch</a>,
+<a href="https://lostpages.netlify.app/gaming-tools#wii-u-wii-homebrew" target="_blank" rel="noreferrer">WiiU / Wii</a>,
+<a href="https://lostpages.netlify.app/gaming-tools#_3ds-ds-homebrew" target="_blank" rel="noreferrer">3DS / DS</a> and
+<a href="https://lostpages.netlify.app/gaming-tools#playstation-homebrew" target="_blank" rel="noreferrer">Playstation</a> sections to
+Homebrew.</p>
+</li>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/gamingpiracyguide#virtual-reality" target="_blank" rel="noreferrer">Virtual Reality</a>
+and <a href="https://lostpages.netlify.app/gaming-tools#game-saves" target="_blank" rel="noreferrer">Game Save</a> sections to Gaming.</p>
+</li>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/devtools#dev-communities" target="_blank" rel="noreferrer">Dev Communities</a> and
+<a href="https://lostpages.netlify.app/devtools#reverse-engineering" target="_blank" rel="noreferrer">Reverse Engineering</a> sections
+to Dev Tools.</p>
+</li>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/linuxguide#linux-communities" target="_blank" rel="noreferrer">Linux Communities</a>
+section to Linux.</p>
+</li>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/miscguide#flights" target="_blank" rel="noreferrer">Flights</a> section to Travel.</p>
+</li>
+<li>
+<p>Organized the Maps section, and added multiple
+<a href="https://lostpages.netlify.app/miscguide#maps" target="_blank" rel="noreferrer">new subsections</a> to it.</p>
+</li>
+<li>
+<p>Debloated <a href="https://lostpages.netlify.app/miscguide#indexes" target="_blank" rel="noreferrer">Indexes</a>,
+<a href="https://lostpages.netlify.app/miscguide#multi-tool-sites" target="_blank" rel="noreferrer">Multi-Tool</a>,
+<a href="https://lostpages.netlify.app/adblockvpnguide#file-scanners" target="_blank" rel="noreferrer">File Scanners</a>,
+<a href="https://lostpages.netlify.app/internet-tools#archiving" target="_blank" rel="noreferrer">Archiving</a> and
+<a href="https://lostpages.netlify.app/storage#music-sheet-collections" target="_blank" rel="noreferrer">Sheet Music</a> sections.</p>
+</li>
+<li>
+<p>Re-added our
+<a href="https://github.com/WindowsAurora/Lost PagesFilterlist/" target="_blank" rel="noreferrer">Unsafe Sites Filter</a>. This
+can be added to uBlock to stop anything in
+<a href="https://lostpages.netlify.app/unsafesites" target="_blank" rel="noreferrer">unsafe sites</a> from loading in your browser.</p>
+</li>
+<li>
+<p>We compared Lost Pages to the badware filter list to make sure we didn't have
+anything on it, <a href="https://ibb.co/9TQ6Nnv" target="_blank" rel="noreferrer">and we didn't</a>.</p>
+</li>
+<li>
+<p>Added optional <a href="https://pastebin.com/MDnQPKP3" target="_blank" rel="noreferrer">alternative logo</a> to our
+website.</p>
+</li>
+</ul>
+<hr>
+<h3 id="stars-added-⭐" tabindex="-1">Stars Added ⭐ <a class="header-anchor" href="#stars-added-⭐" aria-label="Permalink to &quot;Stars Added ⭐&quot;"></a></h3>
+<ul>
+<li>
+<p>Starred both squid.wtf and MP3 Daddy in
+<a href="https://lostpages.netlify.app/audiopiracyguide#audio-ripping-sites" target="_blank" rel="noreferrer">Audio Ripping</a>. Deezer
+ripping sites both capable of getting FLAC files.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/ai#online-chatbots" target="_blank" rel="noreferrer">Morphic</a> in Online Chatbots.
+GPT4o powered search w/ no limits.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/gamingpiracyguide#rom-sites" target="_blank" rel="noreferrer">ROM Heaven</a> in ROM
+sites. Badass new ROM site with single click DDL and a high quality UI.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/linuxguide#linux-communities" target="_blank" rel="noreferrer">All Things Linux</a> in
+Linux Communities. Linux Discord server focused on helping others and
+learning.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/gaming-tools#minecraft-tools" target="_blank" rel="noreferrer">Eaglercraft</a> in
+Minecraft as it's started getting updates again.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/file-tools#file-archivers" target="_blank" rel="noreferrer">CompactGUI</a> in File
+Archivers. Very <a href="https://ibb.co/xm23Xbh" target="_blank" rel="noreferrer">useful</a> archiver with nice UI.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/audiopiracyguide#spotify-adblockers" target="_blank" rel="noreferrer">Spicetify</a> in
+Spotify Adblockers. This has adblock plugins that work just as well as SpotX.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/social-media-tools#reddit-tools" target="_blank" rel="noreferrer">UI Revert Script</a>
+in Reddit Tools. Restores Reddits 2023 UI.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/storage#to-do-apps" target="_blank" rel="noreferrer">Snaptick</a> in Android To-Do Apps.
+Very feature-rich to-do app.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/social-media-tools#twitch-adblockers" target="_blank" rel="noreferrer">PurpleAdblock</a>
+in Twitch Adblockers. Got a update recently and seems to be working again.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/img-tools#image-viewers" target="_blank" rel="noreferrer">ImageGlass</a> in Image
+Viewers. Popular lightweight image viewer with a nice UI.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/storage#fun-indexes" target="_blank" rel="noreferrer">Neal.fun</a> in Fun Indexes. OG
+site with lots of fun games / experiments.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/adblockvpnguide#dns-adblocking" target="_blank" rel="noreferrer">Pi-hole</a> in DNS
+Adblockers as their lists are more updated than NextDNS.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/ai#online-chatbots" target="_blank" rel="noreferrer">ChatGPT</a> in Online Chatbots as
+they're adding GPT4o to
+<a href="https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4-gpt-4-turbo-and-gpt-4o" target="_blank" rel="noreferrer">free tier</a>.</p>
+</li>
+</ul>
+<hr>
+<h3 id="things-removed" tabindex="-1">Things Removed <a class="header-anchor" href="#things-removed" aria-label="Permalink to &quot;Things Removed&quot;"></a></h3>
+<ul>
+<li>
+<p>Removed both moo and media drives as neither work anymore.</p>
+</li>
+<li>
+<p>Removed The Movie Archive as its shutdown.</p>
+</li>
+<li>
+<p>Removed Subscene as they've <a href="https://ibb.co/SVX41NW" target="_blank" rel="noreferrer">closed</a>.</p>
+</li>
+<li>
+<p>Removed neofetch as its been archived.</p>
+</li>
+<li>
+<p>Unstarred Bloxstrap as
+<a href="https://github.com/pizzaboxer/bloxstrap/wiki/Addressing-usability-problems-with-Bloxstrap-v2.5.4" target="_blank" rel="noreferrer">dev doesn't have time</a> currently to keep it updated.</p>
+</li>
+<li>
+<p>Unstarred NextDNS as their filter lists include negligent ones (like energized) which cause a bunch of issues, including Lost Pages.net getting blocked.</p>
+</li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Monthly Updates [May]]]></title>
+            <link>https://lostpages.netlify.app/posts/may-2024</link>
+            <guid>https://lostpages.netlify.app/posts/may-2024</guid>
+            <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="nbats"/><div class="info custom-block"><p class="custom-block-title">INFO</p>
+<p>These update threads only contains major updates. If you're interested
+in seeing all minor changes you can follow our
+<a href="https://github.com/Lost Pages/Lost Pagesedit/commits/main" target="_blank" rel="noreferrer">Commits Page</a> on GitHub or
+<a href="https://redd.it/17f8msf" target="_blank" rel="noreferrer">Updates Channel</a> in Discord.</p>
+</div>
+<h3 id="wiki-updates" tabindex="-1">Wiki Updates <a class="header-anchor" href="#wiki-updates" aria-label="Permalink to &quot;Wiki Updates&quot;"></a></h3>
+<ul>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/gamingpiracyguide#multi-game-sites" target="_blank" rel="noreferrer">Multi-Game</a>,
+<a href="https://lostpages.netlify.app/gamingpiracyguide#party-games" target="_blank" rel="noreferrer">Party</a>,
+<a href="https://lostpages.netlify.app/gamingpiracyguide#shooter" target="_blank" rel="noreferrer">Shooter</a>,
+<a href="https://lostpages.netlify.app/gamingpiracyguide#platformer" target="_blank" rel="noreferrer">Platforming</a>,
+<a href="https://lostpages.netlify.app/gamingpiracyguide#simulation" target="_blank" rel="noreferrer">Simulation</a>,
+<a href="https://lostpages.netlify.app/gamingpiracyguide#arcade" target="_blank" rel="noreferrer">Arcade</a> and
+<a href="https://lostpages.netlify.app/gamingpiracyguide#rpg" target="_blank" rel="noreferrer">RPG</a> sections to Browser Games.</p>
+</li>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/edupiracyguide#med-school" target="_blank" rel="noreferrer">Med School</a>,
+<a href="https://lostpages.netlify.app/edupiracyguide#philosophy" target="_blank" rel="noreferrer">Philosophy</a> and
+<a href="https://lostpages.netlify.app/edupiracyguide#geography-datasets" target="_blank" rel="noreferrer">Geography</a> sections to
+Education.</p>
+</li>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/linuxguide#linux-guides" target="_blank" rel="noreferrer">Linux Guides</a> and
+<a href="https://lostpages.netlify.app/linuxguide#window-managers" target="_blank" rel="noreferrer">Window Managers</a> sections to
+Linux.</p>
+</li>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/readingpiracyguide#public-domain" target="_blank" rel="noreferrer">Public Domain</a>
+section to Reading.</p>
+</li>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/edupiracyguide#german" target="_blank" rel="noreferrer">German</a> section to Language
+Learning.</p>
+</li>
+<li>
+<p>Renamed Audio Download to
+<a href="https://lostpages.netlify.app/audiopiracyguide#audio-ripping" target="_blank" rel="noreferrer">Audio Ripping</a>, cleaned up
+the section, and separated sites and tools into their own subsections.</p>
+</li>
+<li>
+<p>Cleaned up
+<a href="https://lostpages.netlify.app/torrentpiracyguide#qbittorrent-tools" target="_blank" rel="noreferrer">qBittorrent Tools</a>,
+<a href="https://lostpages.netlify.app/internet-tools#paywall-bypass" target="_blank" rel="noreferrer">Paywall Bypass</a>,
+<a href="https://Lost Pages.pages.dev/text-tools#pastebins" target="_blank" rel="noreferrer">Pastebins</a> and
+<a href="https://lostpages.netlify.app/internet-tools#open-source-intelligence" target="_blank" rel="noreferrer">OSINT</a> sections.</p>
+</li>
+<li>
+<p>Moved <a href="https://lostpages.netlify.app/edupiracyguide#periodic-tables" target="_blank" rel="noreferrer">Periodic Tables</a>,
+<a href="https://lostpages.netlify.app/edupiracyguide#quote-indexes" target="_blank" rel="noreferrer">Quotes</a>,
+<a href="https://lostpages.netlify.app/adblockvpnguide#file-scanners" target="_blank" rel="noreferrer">File Scanners</a> and
+<a href="https://lostpages.netlify.app/audiopiracyguide#sheet-music" target="_blank" rel="noreferrer">Sheet Music</a> out of storage
+into main sections.</p>
+</li>
+<li>
+<p>Moved <a href="https://lostpages.netlify.app/gaming-tools" target="_blank" rel="noreferrer">Gaming Tools</a> out of gaming onto its own
+page.</p>
+</li>
+<li>
+<p>Separated <a href="https://lostpages.netlify.app/img-tools#painting" target="_blank" rel="noreferrer">Painting</a> and
+<a href="https://lostpages.netlify.app/img-tools#drawing" target="_blank" rel="noreferrer">Drawing</a> into their own sections.</p>
+</li>
+</ul>
+<hr>
+<h3 id="stars-added-⭐" tabindex="-1">Stars Added ⭐ <a class="header-anchor" href="#stars-added-⭐" aria-label="Permalink to &quot;Stars Added ⭐&quot;"></a></h3>
+<ul>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/system-tools#system-debloating" target="_blank" rel="noreferrer">Debloat Guide</a> in
+System Debloating. Collaborative project by our discord members, let us know
+what you think or if you have any suggestions for it.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/videopiracyguide#multi-server" target="_blank" rel="noreferrer">Nunflix</a> in
+Streaming. Multi-server streaming with fast hosts and nice UI.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/downloadpiracyguide#software-sites" target="_blank" rel="noreferrer">Game Bounty</a> in
+Software as they've started uploading software recently.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/videopiracyguide#helpful-sites-tools" target="_blank" rel="noreferrer">FastStream</a> in
+Streaming Tools. Fragmentation streaming which speeds up browser video
+buffering.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/internet-tools#chat-tools" target="_blank" rel="noreferrer">Mumble</a> in Chat Tools.
+Oldschool voice chat client used and loved by many.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/torrentpiracyguide#torrent-clients" target="_blank" rel="noreferrer">Tixati</a> in
+Torrent Clients. Simple client still popular in some circles.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/gaming-tools#optimization-tools" target="_blank" rel="noreferrer">SpecialK</a> in Gaming
+Optimization. Feature-rich game optimization tool.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/img-tools#image-viewers" target="_blank" rel="noreferrer">qView</a> in Image Viewers.
+Minimal and efficient open-source image viewer.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/img-tools#reverse-image-search" target="_blank" rel="noreferrer">SauceNAO</a> in Reverse
+Image Search. Multi-site search engine.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/system-tools#os-emulators" target="_blank" rel="noreferrer">Puter</a> in OS Emulators.
+Session saving browser operating system.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/storage#minecraft-servers" target="_blank" rel="noreferrer">playit.gg</a> in Minecraft
+Servers. Easy to setup minecraft servers.</p>
+</li>
+<li>
+<p>Starred
+<a href="https://lostpages.netlify.app/gaming-tools#minecraft-tools" target="_blank" rel="noreferrer">MCPropertyEncyclopedia</a> in
+Minecraft Tools. Comprehensive block info database.</p>
+</li>
+<li>
+<p>Starred
+<a href="https://lostpages.netlify.app/audiopiracyguide#song-identification" target="_blank" rel="noreferrer">Shazam + WatZatSong</a>
+in Song Identification. Popular song identification tools.</p>
+</li>
+</ul>
+<hr>
+<h3 id="things-removed" tabindex="-1">Things Removed <a class="header-anchor" href="#things-removed" aria-label="Permalink to &quot;Things Removed&quot;"></a></h3>
+<ul>
+<li>Removed MrGamingStreams as they've shutdown.</li>
+<li>Removed IDM Activation Script as its been archived.</li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Monthly Updates [April]]]></title>
+            <link>https://lostpages.netlify.app/posts/april-2024</link>
+            <guid>https://lostpages.netlify.app/posts/april-2024</guid>
+            <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="nbats"/><div class="info custom-block"><p class="custom-block-title">INFO</p>
+<p>These update threads only contains major updates. If you're interested
+in seeing all minor changes you can follow our
+<a href="https://github.com/Lost Pages/Lost Pagesedit/commits/main" target="_blank" rel="noreferrer">Commits Page</a> on GitHub or
+<a href="https://redd.it/17f8msf" target="_blank" rel="noreferrer">Updates Channel</a> in Discord.</p>
+</div>
+<h3 id="wiki-updates" tabindex="-1">Wiki Updates <a class="header-anchor" href="#wiki-updates" aria-label="Permalink to &quot;Wiki Updates&quot;"></a></h3>
+<ul>
+<li>
+<p>Split Android Tools into subsections:
+<a href="https://lostpages.netlify.app/android-iosguide#optimization" target="_blank" rel="noreferrer">Optimization</a>,
+<a href="https://lostpages.netlify.app/android-iosguide#battery-tools" target="_blank" rel="noreferrer">Battery</a>,
+<a href="https://lostpages.netlify.app/android-iosguide#keyboard-text" target="_blank" rel="noreferrer">Keyboard</a>,
+<a href="https://lostpages.netlify.app/android-iosguide#screen-tools" target="_blank" rel="noreferrer">Screen</a>,
+<a href="https://lostpages.netlify.app/android-iosguide#android-file-tools" target="_blank" rel="noreferrer">Files</a>,
+<a href="https://lostpages.netlify.app/android-iosguide#root-flash" target="_blank" rel="noreferrer">Root / Flash</a>,
+<a href="https://lostpages.netlify.app/android-iosguide#productivity-calendars" target="_blank" rel="noreferrer">Productivity</a>,
+<a href="https://lostpages.netlify.app/android-iosguide#maps-location" target="_blank" rel="noreferrer">Maps</a>,
+<a href="https://lostpages.netlify.app/android-iosguide#notifications-widgets" target="_blank" rel="noreferrer">Notifications</a> and
+<a href="https://lostpages.netlify.app/android-iosguide#social-media-apps" target="_blank" rel="noreferrer">Social Media</a>.</p>
+</li>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/gamingpiracyguide#abandonware" target="_blank" rel="noreferrer">Abandonware</a>,
+<a href="https://lostpages.netlify.app/gamingpiracyguide#moba-tools" target="_blank" rel="noreferrer">MOBA</a>,
+<a href="https://lostpages.netlify.app/gamingpiracyguide#gacha-tools" target="_blank" rel="noreferrer">Gacha</a>,
+<a href="https://lostpages.netlify.app/gamingpiracyguide#counter-strike-tools" target="_blank" rel="noreferrer">Counter-Strike</a>,
+<a href="https://lostpages.netlify.app/gamingpiracyguide#doom-tools" target="_blank" rel="noreferrer">Doom</a> and
+<a href="https://lostpages.netlify.app/gamingpiracyguide#controller-tools" target="_blank" rel="noreferrer">Controller Tool</a>
+sections to Gaming.</p>
+</li>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/miscguide#toys-figures" target="_blank" rel="noreferrer">Toys / Figures</a> section to
+Shopping.</p>
+</li>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/android-iosguide#android-manga" target="_blank" rel="noreferrer">Manga</a> section to
+Android Reading.</p>
+</li>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/storage#mpv-shaders" target="_blank" rel="noreferrer">MPV Shaders</a> section to Video
+Tools.</p>
+</li>
+<li>
+<p>Added <a href="https://lostpages.netlify.app/adblockvpnguide#email-privacy" target="_blank" rel="noreferrer">Email</a> section to
+Privacy.</p>
+</li>
+<li>
+<p>Added <a href="https://Lost Pages.pages.dev/devtools#regex-tools" target="_blank" rel="noreferrer">Regex</a> section to Dev
+Tools.</p>
+</li>
+<li>
+<p>Our <a href="https://social.Lost Pages.net/@Lost Pages" target="_blank" rel="noreferrer">Lost Pages Social</a> (fediverse instance /
+account) is now live.</p>
+</li>
+<li>
+<p>Removed wiki from saidit. Its our least used version so we're not sure its
+worth the effort. If enough people want it back we'll reconsider.</p>
+</li>
+</ul>
+<hr>
+<h3 id="stars-added-⭐" tabindex="-1">Stars Added ⭐ <a class="header-anchor" href="#stars-added-⭐" aria-label="Permalink to &quot;Stars Added ⭐&quot;"></a></h3>
+<ul>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/videopiracyguide#live-sports" target="_blank" rel="noreferrer">Streamed</a> in Live
+Sports. Fast streams, no ads.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/social-media-tools#youtube-frontends" target="_blank" rel="noreferrer">Poke</a> in
+YouTube Frontends. Nice UI, download support, no ads.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/file-tools#download-managers" target="_blank" rel="noreferrer">Motrix</a> in Download
+Managers. Some people prefer this over Jdownloader / IDM.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/android-iosguide#android-reading" target="_blank" rel="noreferrer">Openlib</a> in
+Android Reading. Anna’s Archive app.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/social-media-tools#youtube-downloaders" target="_blank" rel="noreferrer">Stacher</a> in
+YouTube Downloaders. Modern YT-DL GUI.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/text-tools#translators" target="_blank" rel="noreferrer">DeepLX</a> in Translators.
+Unlimited DeepL.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/ai#online-chatbots" target="_blank" rel="noreferrer">Claude</a> in Online Chatbots.
+Works better than things like gemini.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/downloadpiracyguide#software-sites" target="_blank" rel="noreferrer">Soft98</a> in
+Software Sites. Big library, single click DDL.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/video-tools#jellyfin-tools" target="_blank" rel="noreferrer">JellyPlayer</a> in Jellyfin
+Tools. Modern Jellyfin client.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/system-tools#package-managers" target="_blank" rel="noreferrer">UniGetUI</a> in Package
+Managers. Nice user-interface for Winget.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/img-tools#screenshot-tools" target="_blank" rel="noreferrer">Zipline</a> in Screenshot
+Tools. Self-hosted, feature-rich ShareX server.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/android-iosguide#android-emulators" target="_blank" rel="noreferrer">WSABuilds</a> in
+Android Emulators. Pre-built WSA binaries that will continue to be
+<a href="https://ibb.co/R4hssDc" target="_blank" rel="noreferrer">updated</a>.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/img-tools#reverse-image-search" target="_blank" rel="noreferrer">SmartImage</a> in
+Reverse Image Search. Multi-site reverse image search tool.</p>
+</li>
+</ul>
+<hr>
+<h3 id="things-removed" tabindex="-1">Things Removed <a class="header-anchor" href="#things-removed" aria-label="Permalink to &quot;Things Removed&quot;"></a></h3>
+<ul>
+<li>
+<p>Removed free-mp3-download as they've shutdown.</p>
+</li>
+<li>
+<p>Removed HolyUnblocker as they've
+<a href="https://github.com/QuiteAFancyEmerald/Holy-Unblocker?tab=readme-ov-file#important-message-original" target="_blank" rel="noreferrer">shutdown</a>.</p>
+</li>
+<li>
+<p>Removed WSA as support for it has been <a href="https://ibb.co/zxB565S" target="_blank" rel="noreferrer">dropped</a>.</p>
+</li>
+<li>
+<p>Unstarred FlixHQ in Streaming. This used to be good but seems to be a lot
+slower recently.</p>
+</li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Monthly Updates [March]]]></title>
+            <link>https://lostpages.netlify.app/posts/march-2024</link>
+            <guid>https://lostpages.netlify.app/posts/march-2024</guid>
+            <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="nbats"/><div class="info custom-block"><p class="custom-block-title">These update threads only contains major updates. If you're interested</p>
+<p>in seeing all minor changes you can follow our
+<a href="https://github.com/Lost Pages/Lost Pagesedit/commits/main" target="_blank" rel="noreferrer">Commits Page</a> on GitHub or
+<a href="https://redd.it/17f8msf" target="_blank" rel="noreferrer">Updates Channel</a> in Discord. :::</p>
+<h3 id="wiki-updates" tabindex="-1">Wiki Updates <a class="header-anchor" href="#wiki-updates" aria-label="Permalink to &quot;Wiki Updates&quot;"></a></h3>
+<ul>
+<li>
+<p>Added custom search engines (CSE) for
+<a href="https://cse.google.com/cse?cx=f7a118c70d0804fc4" target="_blank" rel="noreferrer">Courses</a> and
+<a href="https://cse.google.com/cse?cx=82154ebab193e493d" target="_blank" rel="noreferrer">Fonts</a>.</p>
+</li>
+<li>
+<p>Added section for
+<a href="https://lostpages.netlify.app/miscguide#productivity-tools" target="_blank" rel="noreferrer">Productivity Tools</a> in Useful
+Sites.</p>
+</li>
+<li>
+<p>Added section for <a href="https://lostpages.netlify.app/file-tools#file-recovery" target="_blank" rel="noreferrer">File Recovery</a>
+in File Tools.</p>
+</li>
+<li>
+<p>Added section for
+<a href="https://lostpages.netlify.app/adblockvpnguide#fingerprinting-tracking" target="_blank" rel="noreferrer">Fingerprinting / Tracking</a>
+in Privacy.</p>
+</li>
+<li>
+<p>Added sections for
+<a href="https://lostpages.netlify.app/gamingpiracyguide#mario-kart-tools" target="_blank" rel="noreferrer">Mario Kart</a> +
+<a href="https://lostpages.netlify.app/gamingpiracyguide#geometry-dash-tools" target="_blank" rel="noreferrer">Geometry Dash</a> in
+Gaming.</p>
+</li>
+<li>
+<p>Added section for
+<a href="https://lostpages.netlify.app/miscguide#crypto-bitcoin" target="_blank" rel="noreferrer">Crypto / Bitcoin</a> in Career.</p>
+</li>
+<li>
+<p>Added section for <a href="https://lostpages.netlify.app/linuxguide#raspberry-pi" target="_blank" rel="noreferrer">Raspberry Pi</a> in
+Linux.</p>
+</li>
+<li>
+<p>Added sections for <a href="https://lostpages.netlify.app/img-tools#design-apps" target="_blank" rel="noreferrer">Design Apps</a> +
+<a href="https://lostpages.netlify.app/img-tools#free-assets" target="_blank" rel="noreferrer">Design Assets</a> in Image Tools.</p>
+</li>
+<li>
+<p>Our Minecraft Server is now live. Click
+<strong><a href="https://lostpages.netlify.app/posts/minecraft-server" target="_blank" rel="noreferrer">here</a></strong> to join.</p>
+</li>
+<li>
+<p>Moved <code>Lost Pages.tk</code> to <code>old.Lost Pages.net</code></p>
+</li>
+</ul>
+<hr>
+<h3 id="stars-added-⭐" tabindex="-1">Stars Added ⭐ <a class="header-anchor" href="#stars-added-⭐" aria-label="Permalink to &quot;Stars Added ⭐&quot;"></a></h3>
+<ul>
+<li>
+<p>Starred
+<a href="https://lostpages.netlify.app/audiopiracyguide#audio-downloading" target="_blank" rel="noreferrer">yet another music server</a>
+in Audio Downloading. Multi-site DDL (deezer, qobuz, tidal, spotify, youtube,
+FLAC.)</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/ai#online-chatbots" target="_blank" rel="noreferrer">wrtn</a> in Online Chatbots. No
+limit GPT-4, tell it to always talk in english.</p>
+</li>
+<li>
+<p>Starred
+<a href="https://lostpages.netlify.app/videopiracyguide#streaming-sites" target="_blank" rel="noreferrer">M4UFree + YesMovies</a> in
+Streaming. Both have huge libraries, fast 1080p, and have been around for over
+a decade.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/ai#online-generators" target="_blank" rel="noreferrer">Poe</a> in Image Generators. 100
+SDXL and 100 Playground Gens.</p>
+</li>
+<li>
+<p>Starred
+<a href="https://lostpages.netlify.app/storage#minecraft-optimization-mods" target="_blank" rel="noreferrer">Simply Optimized</a> in
+Minecraft Optimization. Some prefer this to Fabulously Optimized.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/torrentpiracyguide#aggregators" target="_blank" rel="noreferrer">SolidTorrents</a> in
+Torrent Aggregators.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/videopiracyguide#live-tv-sports" target="_blank" rel="noreferrer">MrGamingStreams</a> in
+Live TV. Fast streams, nice UI, no ads.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/videopiracyguide#sports-streaming" target="_blank" rel="noreferrer">720pier</a> in
+Sports Streaming. Sport replay torrents.</p>
+</li>
+<li>
+<p>Starred
+<a href="https://lostpages.netlify.app/social-media-tools#youtube-customization" target="_blank" rel="noreferrer">Enhancer for YT</a>
+in YouTube Customization. YouTube enhancement extension.</p>
+</li>
+<li>
+<p>Starred <a href="https://lostpages.netlify.app/videopiracyguide#tracking-discovery" target="_blank" rel="noreferrer">RatS</a> in
+Tracking / Discovery. Sync media ratings between sites.</p>
+</li>
+</ul>
+<hr>
+<h3 id="things-removed" tabindex="-1">Things Removed <a class="header-anchor" href="#things-removed" aria-label="Permalink to &quot;Things Removed&quot;"></a></h3>
+<ul>
+<li>
+<p>Removed Vendetta from Android as the devs have
+<a href="https://i.imgur.com/F4o2ela.png" target="_blank" rel="noreferrer">shut it down</a>.</p>
+</li>
+<li>
+<p>Removed TTV LOL as it stopped working.</p>
+</li>
+<li>
+<p>Unstarred bypass.vip and FastForward as they
+<a href="https://i.imgur.com/EMRcqX6.png" target="_blank" rel="noreferrer">don't work as well</a> as they used to.</p>
+</li>
+<li>
+<p>Unstarred claude in chatbots as it requires email + phone number and doesn't
+give as good results as it used to.</p>
+</li>
+<li>
+<p>Unstarred Harmonoid as its not longer being updated and has 100+ issues on
+github.</p>
+</li>
+</ul>
+</div>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Monthly Updates [Feb]]]></title>
+            <link>https://lostpages.netlify.app/posts/feb-2024</link>
+            <guid>https://lostpages.netlify.app/posts/feb-2024</guid>
+            <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="nbats" /><div class="info custom-block"><p class="custom-block-title">INFO</p>
+<p>These update threads only contains major updates. If you're interested
+in seeing all minor changes you can follow our
+<a href="https://github.com/Lost Pages/Lost Pagesedit/commits/main" target="_blank" rel="noreferrer">Commits Page</a> on GitHub or
+<a href="https://redd.it/17f8msf" target="_blank" rel="noreferrer">Updates Channel</a> in Discord.</p>
+</div>
+<h3 id="wiki-updates" tabindex="-1">Wiki Updates <a class="header-anchor" href="#wiki-updates" aria-label="Permalink to &quot;Wiki Updates&quot;"></a></h3>
+<ul>
+<li>
+<p>Our official pastebin, <strong><a href="https://pastes.Lost Pages.net/" target="_blank" rel="noreferrer">snowbin</a></strong> is now live!
+Keep in mind pastes only last for 7 days, and as of now you can't make edits,
+but we may add features like this in the future.</p>
+</li>
+<li>
+<p>Ran a <a href="https://i.imgur.com/73paJlr.png" target="_blank" rel="noreferrer">poll</a> regarding streaming sites, and
+used the results to help us re-order the
+<a href="/videopiracyguide.html">streaming section.</a></p>
+</li>
+<li>
+<p>Turned Spotify into its own section w/ subsections:
+<a href="/audiopiracyguide.html#spotify-clients">Clients</a>,
+<a href="/audiopiracyguide.html#spotify-adblockers">Adblockers</a>,
+<a href="/audiopiracyguide.html#spotify-download">Download</a> and
+<a href="/audiopiracyguide.html#spotify-tools">Tools</a>.</p>
+</li>
+<li>
+<p>Added a section for <a href="/audiopiracyguide.html#media-soundtracks">Soundtracks</a> in
+Audio.</p>
+</li>
+<li>
+<p>Added sections for <a href="/devtools.html#computer-science">Computer Science</a> and
+<a href="/devtools.html#docker-tools">Docker</a> in Dev Tools.</p>
+</li>
+<li>
+<p>Added a section for
+<a href="/adblockvpnguide.html#two-factor-authentication">Two-Factor Authentication</a> in Web
+Privacy.</p>
+</li>
+<li>
+<p>Re-organized <a href="/readingpiracyguide.html#magazines">Magazine Sites</a> + added filehosts
+to their descriptions.</p>
+</li>
+<li>
+<p>Removed OnStream from unsafe sites. The <a href="https://rentry.co/upo2r" target="_blank" rel="noreferrer">&quot;evidence&quot;</a>
+we had listed wasn't very solid. If someone has more proof we can re-consider,
+but for now we don't have reason enough to call them unsafe. Keep in mind its
+not posted in the wiki, just removed from our unsafe list.</p>
+</li>
+<li>
+<p>We recently moved off Netlify, and soon after a scammer
+<a href="https://i.imgur.com/rByoHnf.png" target="_blank" rel="noreferrer">took over the domain</a>. If you had this page
+bookmarked we'd highly recommend you remove it, and update to our
+<a href="/">new domain</a>. We've tried reporting it to Netlify, but so far they haven't
+done anything.</p>
+</li>
+<li>
+<p>Grammar issues have been fixed
+<a href="https://github.com/Lost Pages/Lost Pagesedit/pull/1337" target="_blank" rel="noreferrer">throughout the wiki</a> /
+<a href="https://github.com/Lost Pages/Lost Pagesedit/pull/1340" target="_blank" rel="noreferrer">2</a> /
+<a href="https://github.com/Lost Pages/Lost Pagesedit/pull/1339" target="_blank" rel="noreferrer">3</a>. Remember that anyone can send
+<a href="https://github.com/Lost Pages/Lost Pagesedit" target="_blank" rel="noreferrer">pull requests</a> to our github so don't be
+afraid to help us fix things like this.</p>
+</li>
+<li>
+<p>Added a mirror of our site to <a href="https://Lost Pages.github.io/Lost Pagesedit/" target="_blank" rel="noreferrer">github.io</a>.</p>
+</li>
+</ul>
+<hr>
+<h3 id="stars-added-⭐" tabindex="-1">Stars Added ⭐ <a class="header-anchor" href="#stars-added-⭐" aria-label="Permalink to &quot;Stars Added ⭐&quot;"></a></h3>
+<ul>
+<li>
+<p>Starred updated guides for both <a href="/system-tools.html#windows-isos">Windows Piracy</a>
+and <a href="/text-tools.html#text-editors">Office Piracy</a>.</p>
+</li>
+<li>
+<p>Starred <a href="/file-tools.html#file-hosts">Buzzheavier</a> in File Hosts. No upload limit,
+files last forever.</p>
+</li>
+<li>
+<p>Starred <a href="/internet-tools.html#url-tools">Linqbin</a> in URL Tools. Privacy focused
+temp link shortener/pastebin, made by one of our discord mods.</p>
+</li>
+<li>
+<p>Starred <a href="/gamingpiracyguide.html#game-repacks">Gnarly Repacks</a> in Game Repacks +
+ROMs. Trusted repacker who's been around for years.</p>
+</li>
+<li>
+<p>Starred <a href="/videopiracyguide.html#multi-server">PrimeFlix</a> in Streaming Sites. Nice
+UI, fast 1080p, lots of hosts.</p>
+</li>
+<li>
+<p>Starred <a href="/videopiracyguide.html#download-sites">LightDLMovies</a> in Video Download.
+Fast, single click, 1080p downloads.</p>
+</li>
+<li>
+<p>Starred <a href="/videopiracyguide.html#anime-downloading">Flugel Anime</a> in Anime DDL.
+Archive of nyaa.si with fast downloads.</p>
+</li>
+<li>
+<p>Starred <a href="/social-media-tools.html#fediverse-tools">Divisions by zero</a> in Fediverse
+Tools. The best piracy focused instance on Lemmy.</p>
+</li>
+<li>
+<p>Starred <a href="/downloadpiracyguide.html#software-sites">CRACKSurl</a> in Software Sites.
+Clean scans + admins are members of Lost Pages.</p>
+</li>
+<li>
+<p>Starred <a href="/readingpiracyguide.html#pdf-search">PDF Drive</a> in PDF Sites as their
+downloads are working again.</p>
+</li>
+<li>
+<p>Starred <a href="/adblockvpnguide.html#redirect-bypass">Bypass All Shortlinks</a> in Redirect
+Bypass. This is a fork of the original script with all tracking elements
+removed.</p>
+</li>
+</ul>
+<hr>
+<h3 id="things-removed" tabindex="-1">Things Removed <a class="header-anchor" href="#things-removed" aria-label="Permalink to &quot;Things Removed&quot;"></a></h3>
+<ul>
+<li>
+<p>Removed Tachiyomi as it is
+<a href="https://tachiyomi.org/news/2024-01-13-goodbye" target="_blank" rel="noreferrer">no longer being developed</a>.
+We've replaced it with its successor
+<a href="/android-iosguide.html#android-reading">Mihon</a>, and keep in mind the forks linked
+there still work.</p>
+</li>
+<li>
+<p>Removed Revanced Extended in YouTube Apps as its been
+<a href="https://redd.it/1abt4kk" target="_blank" rel="noreferrer">archived</a>.</p>
+</li>
+<li>
+<p>Removed Nitter in Frontends as the lead dev decided to
+<a href="https://github.com/zedeus/nitter/issues/1155#issuecomment-1913361757" target="_blank" rel="noreferrer">call it quits</a>.</p>
+</li>
+<li>
+<p>Removed Erai-Raws in Anime DDL as they're closing registrations.</p>
+</li>
+<li>
+<p>Removed WorldCinema in Video DDL as they've gone premium only.</p>
+</li>
+<li>
+<p>Removed /r/ApkApps Megathread as its no longer updated.</p>
+</li>
+<li>
+<p>Removed Lunar Client in Minecraft Launchers as its closed-source and their
+privacy policy is <a href="https://i.imgur.com/2Wtds7l.png" target="_blank" rel="noreferrer">very poor</a>.</p>
+</li>
+<li>
+<p>Unstarred LibreWolf as Mullvad Browser is a similar project with
+<a href="https://i.imgur.com/GTzWHR0.png" target="_blank" rel="noreferrer">auto updates</a>.</p>
+</li>
+<li>
+<p>Unstarred Zoo in AI Chatbots as its no longer unlimited.</p>
+</li>
+<li>
+<p>Unstarred Phind in AI Chatbots as it no longer offers free GPT-4.</p>
+</li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Monthly Updates [Jan] & Happy New Year!]]></title>
+            <link>https://lostpages.netlify.app/posts/jan-2024</link>
+            <guid>https://lostpages.netlify.app/posts/jan-2024</guid>
+            <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="nbats,zinklog,Q,Kai,taskylizard" /><p>Hi everyone, happy new year! As we bid farewell to '23, let's take a moment to
+reflect on the remarkable journey Lost Pages has had this year:</p>
+<ul>
+<li>We made a new website, enriched with an array of handcrafted features (by me,
+of course) to enhance your experience and make browsing the wiki pleasant on
+all devices (mobile included!)</li>
+<li>We opened our Discord server and reached 10k members, which introduced many
+new great people to this community and made contribution easy</li>
+<li>We've reached 250k+ members and 31 million views on reddit!</li>
+<li>Our Lost Pagesedit repository oversaw an impressive 1k+ pull requests made by the
+community and merged over 8k commits!</li>
+<li>This wiki has grown to be more than just a piracy index, so we felt it's about
+time other sections get some love. As such, we organized and separated tools
+sections into their own pages, which allowed us to move a lot of useful tools
+out of storage and make it a lot easier to discover them</li>
+<li>We started the debloat arc of Lost Pages and went from 27k links to 24k! We've
+removed a lot of dead, useless, and niche links / categories, as well as
+re-organized a lot of sections for better clarity and easier navigation</li>
+</ul>
+<p>As we enter 2024, we eagerly anticipate building on our achievements and
+evolving together. Lost Pages wouldn't be what it is today without the love and
+support of everyone in this community. Thank you for being an integral part of
+Lost Pages. Here's to another year of growth and success! 💙</p>
+<h3 id="wiki-updates" tabindex="-1">Wiki Updates <a class="header-anchor" href="#wiki-updates" aria-label="Permalink to &quot;Wiki Updates&quot;"></a></h3>
+<ul>
+<li>
+<p>Made our own instances for both <strong><a href="https://searx.Lost Pages.net/" target="_blank" rel="noreferrer">SearX</a></strong> +
+<strong><a href="https://whoogle.Lost Pages.net/" target="_blank" rel="noreferrer">Whoogle</a></strong>.</p>
+</li>
+<li>
+<p>Made a <a href="/posts.html">Posts</a> page on our site, so you can see all updates without
+needing reddit. You can also follow via <a href="/feed.rss.html">RSS</a>.</p>
+</li>
+<li>
+<p>Created a new category for <a href="/social-media-tools.html">Social Media Tools</a>, and
+added subsections for popular sites that needed them. (Reddit, Discord,
+YouTube etc.)</p>
+</li>
+<li>
+<p>Added sections for <a href="/audiopiracyguide.html#game-soundtracks">Game Soundtracks</a>,
+<a href="/downloadpiracyguide.html#irc-tools">IRC Tools</a> and
+<a href="/devtools.html#coding-ais">Coding AIs</a>.</p>
+</li>
+<li>
+<p>Split Career into subsections: <a href="/miscguide.html#remote-jobs">Remote Jobs</a>,
+<a href="/miscguide.html#tech-jobs">Tech Jobs</a>, <a href="/miscguide.html#startup">Startup</a> and
+<a href="/miscguide.html#finance-crypto">Finance / Crypto</a></p>
+</li>
+<li>
+<p>Split Game Mods into subsections:
+<a href="/gamingpiracyguide.html#mod-indexes">Mod Indexes</a> and
+<a href="/gamingpiracyguide.html#game-mods">Single Mods</a></p>
+</li>
+<li>
+<p>Split News into subsections: <a href="/miscguide.html#aggregators">Aggregators</a> and
+<a href="/miscguide.html#tech-news">Tech News</a></p>
+</li>
+<li>
+<p>Re-organized both
+<a href="/android-iosguide.html#operating-systems">Android Operating Systems</a> +
+<a href="/android-iosguide.html#app-launchers">App Launchers</a>, and moved them out of
+storage.</p>
+</li>
+</ul>
+<hr>
+<h3 id="stars-added-⭐" tabindex="-1">Stars Added ⭐ <a class="header-anchor" href="#stars-added-⭐" aria-label="Permalink to &quot;Stars Added ⭐&quot;"></a></h3>
+<ul>
+<li>
+<p>Starred <a href="/videopiracyguide.html#streaming-sites">Braflix</a> in Streaming Sites. Fast
+streams, no ads, nice UI, 4K + 1080p.</p>
+</li>
+<li>
+<p>Starred <a href="/readingpiracyguide.html#ebooks">Liber3</a> in Reading Sites. Big library,
+nice UI, single click downloads.</p>
+</li>
+<li>
+<p>Starred <a href="/video-tools.html#video-players">Screenbox</a> in Video Players. Open-source,
+VLC based video player with nice UI.</p>
+</li>
+<li>
+<p>Starred <a href="/social-media-tools.html#discord-clients">Vesktop</a> in Discord Clients.
+Lightweight desktop client built with Vencord.</p>
+</li>
+<li>
+<p>Starred <a href="/ai.html#proprietary-llms">SydneyQt</a> in AI Chatbots. Jailbroken Bing AI.</p>
+</li>
+<li>
+<p>Starred <a href="/android-iosguide.html#foss-apks">App Manager</a> in FOSS APKs. Open-source
+Android app package manager.</p>
+</li>
+<li>
+<p>Starred <a href="/android-iosguide.html#android-device">scrcpy</a> in Android Tools. Manage
+mobile devices via desktop.</p>
+</li>
+<li>
+<p>Starred <a href="/android-iosguide.html#android-device">KernelSU</a> in Android Device. Root
+tool that some people prefer over Magisk.</p>
+</li>
+<li>
+<p>Starred <a href="/android-iosguide.html#ios-privacy">Onion Browser</a> in iOS Privacy.
+Recommended by Tor on their site.</p>
+</li>
+<li>
+<p>Starred <a href="/gamingpiracyguide.html#homebrew">Wii Guide</a> in Homebrew.</p>
+</li>
+<li>
+<p>Starred <a href="/video-tools.html#video-tools-1">Video2x</a> in Video Tools. Lossless
+video/GIF/image upscaler.</p>
+</li>
+<li>
+<p>Starred <a href="/system-tools.html#windows-updates">VCRedist</a> in Windows Updates. Easily
+download all Microsoft Visual C++ redists.</p>
+</li>
+<li>
+<p>Starred <a href="/adblockvpnguide.html#privacy-extensions">CanvasBlocker</a> in Privacy
+Extensions. Prevent Javascript API fingerprinting.</p>
+</li>
+</ul>
+<hr>
+<h3 id="things-removed" tabindex="-1">Things Removed <a class="header-anchor" href="#things-removed" aria-label="Permalink to &quot;Things Removed&quot;"></a></h3>
+<ul>
+<li>
+<p>Removed SevenGamers as they've
+<a href="https://i.imgur.com/C5sgVqI.png" target="_blank" rel="noreferrer">decided to shut down</a>.</p>
+</li>
+<li>
+<p>Removed YasDL as they uploaded a version of StarDock with the same malware
+that filecr and others have gotten removed for.</p>
+</li>
+<li>
+<p>Removed Torrentz2 as they've stopped indexing new torrents.</p>
+</li>
+<li>
+<p>Unstarred LookMovie as they've added a
+<a href="https://i.imgur.com/I0D9Hyt.png" target="_blank" rel="noreferrer">10 second wait</a> before videos play.</p>
+</li>
+<li>
+<p>Unstarred DS4Windows in gaming tools. You can just add games to steam and turn
+on PS4 controller support by right clicking the game.</p>
+</li>
+<li>
+<p>Unstarred Ideogram as its no longer unlimited.</p>
+</li>
+<li>
+<p>Removed EveryNoiseAtOnce as the dev has been
+<a href="https://i.imgur.com/AaIrcAc.png" target="_blank" rel="noreferrer">let go from Spotify</a>.</p>
+</li>
+<li>
+<p>Removed CryptoStorm as its <a href="https://i.imgur.com/VDlSY1T.png" target="_blank" rel="noreferrer">possibly unsafe</a>.
+The owner has no ties to it anymore apparently, but its still hard to trust a
+company with a history this dark.</p>
+</li>
+<li>
+<p>Removed our backups from NotABug. Their site goes down nearly
+<a href="https://i.imgur.com/Vx8Ou68.png" target="_blank" rel="noreferrer">every day</a> at this point, and its become a
+nightmare to keep 25 wiki pages updated there. If they ever fix their issues
+we may bring it back.</p>
+</li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Monthly Updates [December] 250k members!!]]></title>
+            <link>https://lostpages.netlify.app/posts/dec-2023</link>
+            <guid>https://lostpages.netlify.app/posts/dec-2023</guid>
+            <pubDate>Fri, 01 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="info custom-block"><p class="custom-block-title">INFO</p>
+<p>These update threads only contains major updates. If you're interested
+in seeing all minor changes you can follow our
+<a href="https://github.com/Lost Pages/Lost Pagesedit/commits/main" target="_blank" rel="noreferrer">Commits Page</a> on GitHub or
+<a href="https://redd.it/17f8msf" target="_blank" rel="noreferrer">Updates Channel</a> in Discord.</p>
+</div>
+<Post authors="nbats,taskylizard" /><hr>
+<h3 id="wiki-updates" tabindex="-1">Wiki Updates <a class="header-anchor" href="#wiki-updates" aria-label="Permalink to &quot;Wiki Updates&quot;"></a></h3>
+<ul>
+<li>
+<p>Separated Tool sections into their own pages: <a href="/system-tools.html">System Tools</a>,
+<a href="/file-tools.html">File Tools</a>, <a href="/internet-tools.html">Internet Tools</a>,
+<a href="/text-tools.html">Text Tools</a>, <a href="/video-tools.html">Video Tools</a> and
+<a href="/audio-tools.html">Audio Tools</a>.</p>
+</li>
+<li>
+<p>Separated Health into subsections: <a href="/miscguide.html#mental-health">Mental</a>,
+<a href="/miscguide.html#physical-health">Physical</a>,
+<a href="/miscguide.html#nutritional-health">Nutritional</a>,
+<a href="/miscguide.html#sexual-health">Sexual</a> and <a href="/miscguide.html#detoxing">Detoxing</a>.</p>
+</li>
+<li>
+<p>Added a section for <a href="/gamingpiracyguide.html#open-source-games">Open-Source Games</a>
+in Gaming.</p>
+</li>
+<li>
+<p>Added a section for <a href="/video-tools.html#animation-tools">Animation Tools</a> in Video
+Tools.</p>
+</li>
+<li>
+<p>Added a section for <a href="/readingpiracyguide.html#academic-papers">Academic Papers</a> in
+Educational Reading.</p>
+</li>
+<li>
+<p>Added sections for <a href="/img-tools.html#illustrations">Illustrations</a> and
+<a href="/storage.html#textures-patterns">Textures / Patterns</a> in Images.</p>
+</li>
+<li>
+<p>Added sections in Linux for <a href="/linuxguide.html#linux-video">Video</a>,
+<a href="/linuxguide.html#linux-audio">Audio</a>, <a href="/linuxguide.html#linux-images">Images</a> and
+<a href="/linuxguide.html#file-tools">File Tools</a>.</p>
+</li>
+<li>
+<p>Made a <a href="https://rentry.org/piracy" target="_blank" rel="noreferrer">&quot;safe for work&quot;</a> version of our index with
+no NSFW link listed.</p>
+</li>
+<li>
+<p>Added a <a href="https://i.imgur.com/wnOXvKG.png" target="_blank" rel="noreferrer">collapsible list</a> of all the Tool
+sections to our sites sidebar.</p>
+</li>
+</ul>
+<hr>
+<h3 id="stars-added-⭐" tabindex="-1">Stars Added ⭐ <a class="header-anchor" href="#stars-added-⭐" aria-label="Permalink to &quot;Stars Added ⭐&quot;"></a></h3>
+<ul>
+<li>
+<p>Starred <a href="/videopiracyguide.html#multi-server">Streamflix</a> in Streaming Sites. Nice
+UI, fast 1080p, ran by members of our community.</p>
+</li>
+<li>
+<p>Starred <a href="/videopiracyguide.html#multi-server">watch.lonelil</a> in Streaming Sites.
+Nice UI, fast 4K + 1080p, live tv.</p>
+</li>
+<li>
+<p>Starred <a href="/gamingpiracyguide.html#download-games">Game Bounty</a> in Game Download.
+Fast hosts, pre-installs, clean uploads, ran by members of our community.</p>
+</li>
+<li>
+<p>Starred <a href="/storage.html#abandonware-games">AbandonwareGames</a> in Abandonware Games.
+Nice site with a big library of oldschool games.</p>
+</li>
+<li>
+<p>Starred <a href="/gamingpiracyguide.html#steam-epic">Heroic Games Launcher</a> in Steam /
+Epic. Open-source Epic Games launcher.</p>
+</li>
+<li>
+<p>Starred <a href="/downloadpiracyguide.html#download-directories">TG Archive</a> in Download
+Directories. Telegram file archive + search tool.</p>
+</li>
+<li>
+<p>Starred <a href="/system-tools.html#system-debloating">BleachBit</a> in system debloating.
+Popular system file cleaning tool.</p>
+</li>
+<li>
+<p>Starred <a href="/video-tools.html#youtube-download">YT-DLP-GUI</a> in YouTube Download. Nice
+GUI for YT-DL with single click installer.</p>
+</li>
+<li>
+<p>Starred <a href="/system-tools.html#system-tweaks">EverythingToolbar</a> in System Tweaks.
+Adds lots of features to Windows toolbar.</p>
+</li>
+<li>
+<p>Starred <a href="/text-tools.html#translators">DeepL</a> in Translators. People feel this
+gives some of the best results.</p>
+</li>
+<li>
+<p>Starred <a href="/gamingpiracyguide.html#optimization-tools">Magpie</a> in Gaming
+Optimization. Enable AMD FSR on any game or device.</p>
+</li>
+<li>
+<p>Starred <a href="/android-iosguide.html#ios-apps">TrollStore</a> in iOS Apps. Permanently
+install non-appstore iOS apps w/o pc, paid dev account or being jailbroken.</p>
+</li>
+<li>
+<p>Starred <a href="/videopiracyguide.html#smart-tv-firestick">SmartTube</a> in Smart TV /
+Firestick. Ad-free YouTube app. Previously called SmartTubeNext.</p>
+</li>
+</ul>
+<hr>
+<h3 id="things-removed" tabindex="-1">Things Removed <a class="header-anchor" href="#things-removed" aria-label="Permalink to &quot;Things Removed&quot;"></a></h3>
+<ul>
+<li>
+<p>Removed both AppsTorrent and nMac as they're listed as unsafe by
+<a href="https://i.imgur.com/De9u5Ox.png" target="_blank" rel="noreferrer">MacSerialJunkie</a>.</p>
+</li>
+<li>
+<p>Removed both LocalCDN and Decentraleyes as they're redundant with with
+<a href="https://blog.privacyguides.org/2021/12/01/firefox-privacy-2021-update/#localcdn-and-decentraleyes" target="_blank" rel="noreferrer">Total Cookie Protection</a>
+enabled.</p>
+</li>
+<li>
+<p>Removed NovaAI as they've
+<a href="https://www.reddit.com/r/Piracy/comments/17pzrzj/nova_oss_the_api_that_provided_free_gpt4_and/" target="_blank" rel="noreferrer">decided to shutdown</a>.</p>
+</li>
+<li>
+<p>Replaced all CurseForge links with Modrinth as people feel CurseForge
+<a href="https://youtu.be/Vhdwz5apiQQ?si=xgzkQFa1S7hZNa5-" target="_blank" rel="noreferrer">doesn't cooperate</a> with
+their user-base well.</p>
+</li>
+<li>
+<p>Unstarred 12ft.io as it can no longer bypass non-javascript based paywalls.</p>
+</li>
+<li>
+<p>Removed FileListing as they've shutdown their servers.</p>
+</li>
+<li>
+<p>Removed GreaseMonkey as it hasn't been updated in 3 years + has a possible
+history of tracking users.</p>
+</li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[New Website]]></title>
+            <link>https://lostpages.netlify.app/posts/new-site</link>
+            <guid>https://lostpages.netlify.app/posts/new-site</guid>
+            <pubDate>Sun, 12 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="taskylizard" /><h3 id="new-url-https-Lost Pages-net" tabindex="-1">New URL: <a href="https://lostpages.netlify.app/" target="_blank" rel="noreferrer">https://lostpages.netlify.app/</a> <a class="header-anchor" href="#new-url-https-Lost Pages-net" aria-label="Permalink to &quot;New URL: https://lostpages.netlify.app/&quot;"></a></h3>
+<div class="info custom-block"><p class="custom-block-title">Old Frontend</p>
+<p>You can use <a href="https://old.Lost Pages.net" target="_blank" rel="noreferrer">https://old.Lost Pages.net</a> if you'd like to use the
+original version.</p>
+</div>
+<p>Hey everyone, just wanted to let you all know that we're finally done with the
+new website, and are officially launching it today! I know a lot of different
+versions of Lost Pages have been made over the years, but we've put a ton of effort
+into this one, and honestly feel like its the best version to date.</p>
+<p>We really hope you enjoy it, and if you have any issues or suggestions feel free
+to leave them in the comments here, or by using the new feedback system built
+into the site.</p>
+<hr>
+<h3 id="site-features" tabindex="-1">Site Features <a class="header-anchor" href="#site-features" aria-label="Permalink to &quot;Site Features&quot;"></a></h3>
+<ul>
+<li>Star Only Toggle</li>
+<li>Dark / Light Modes</li>
+<li>Feedback System</li>
+<li>Improved UI + Site Speed</li>
+<li>Improved Search Functionality</li>
+<li>Automatic Updates</li>
+<li>Table of Content Sidebars</li>
+<li>Storage URLs Direct to Site Rather than Reddit</li>
+<li>NSFW Section</li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Monthly Updates [November]]]></title>
+            <link>https://lostpages.netlify.app/posts/nov-2023</link>
+            <guid>https://lostpages.netlify.app/posts/nov-2023</guid>
+            <pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="nbats"/><div class="info custom-block"><p class="custom-block-title">INFO</p>
+<p>These update threads only contains major updates. If you're interested
+in seeing all minor changes you can follow our
+<a href="https://github.com/Lost Pages/Lost Pagesedit/commits/main" target="_blank" rel="noreferrer">Commits Page</a> on GitHub or
+<a href="https://redd.it/17f8msf" target="_blank" rel="noreferrer">Updates Channel</a> in Discord.</p>
+</div>
+<h3 id="wiki-updates" tabindex="-1">Wiki Updates <a class="header-anchor" href="#wiki-updates" aria-label="Permalink to &quot;Wiki Updates&quot;"></a></h3>
+<ul>
+<li>
+<p>We've started work on a <strong><a href="https://lostpages.netlify.app" target="_blank" rel="noreferrer">New Website</a></strong>. Keep in mind this
+is still in beta, and will eventually be moved to our main domains once we
+feel its ready.</p>
+</li>
+<li>
+<p>Added
+<a href="https://www.reddit.com/r/Lost Pages/wiki/dev-tools#wiki_.25B7_hosting_tools" target="_blank" rel="noreferrer">Hosting</a>,
+<a href="https://www.reddit.com/r/Lost Pages/wiki/dev-tools#wiki_.25BA_cybersecurity_tools" target="_blank" rel="noreferrer">Cybersecurity</a>
+and
+<a href="https://www.reddit.com/r/Lost Pages/wiki/dev-tools#wiki_.25BA_database_tools" target="_blank" rel="noreferrer">Database</a>
+sections to Dev Tools.</p>
+</li>
+<li>
+<p>Added
+<a href="https://www.reddit.com/r/Lost Pages/wiki/adblock-vpn-privacy#wiki_.25B7_frontends" target="_blank" rel="noreferrer">Privacy Frontends</a>
+section to Privacy Tools.</p>
+</li>
+<li>
+<p>Added
+<a href="https://www.reddit.com/r/Lost Pages/wiki/tools-misc#wiki_.25B7_fediverse_tools" target="_blank" rel="noreferrer">Fediverse Tools</a>
+section to Tools.</p>
+</li>
+<li>
+<p>Split Git Tools into two sections:
+<a href="https://www.reddit.com/r/Lost Pages/wiki/dev-tools#wiki_.25B7_git_tools" target="_blank" rel="noreferrer">Git</a>
+/
+<a href="https://www.reddit.com/r/Lost Pages/wiki/dev-tools#wiki_.25B7_github_tools" target="_blank" rel="noreferrer">GitHub</a>.</p>
+</li>
+<li>
+<p>Added subsections to all the main
+<a href="https://www.reddit.com/r/Lost Pages/wiki/storage" target="_blank" rel="noreferrer">storage sections</a>
+that needed them.</p>
+</li>
+<li>
+<p>Made our Discord <a href="https://redd.it/17f8msf" target="_blank" rel="noreferrer">public again</a>.</p>
+</li>
+</ul>
+<h3 id="stars-added-⭐" tabindex="-1">Stars Added ⭐ <a class="header-anchor" href="#stars-added-⭐" aria-label="Permalink to &quot;Stars Added ⭐&quot;"></a></h3>
+<ul>
+<li>
+<p>Starred
+<a href="https://www.reddit.com/r/Lost Pages/wiki/video#wiki_.25BA_streaming_sites" target="_blank" rel="noreferrer">cinehub.wtf</a>
+in Streaming Sites. Solid UI, fast 1080p.</p>
+</li>
+<li>
+<p>Starred
+<a href="https://www.reddit.com/r/Lost Pages/wiki/video#wiki_.25B7_single_server" target="_blank" rel="noreferrer">UpMovies</a>
+in Streaming Sites. This used to be known as sockshare, but they've updated
+their site and rebranded. Not always the best quality, but it really is one of
+the best sites to find obscure stuff, especially shows.</p>
+</li>
+<li>
+<p>Starred
+<a href="https://www.reddit.com/r/Lost Pages/wiki/video#wiki_.25B7_live_tv_.2F_sports" target="_blank" rel="noreferrer">FSL</a>
+in Live TV sites.</p>
+</li>
+<li>
+<p>Starred
+<a href="https://www.reddit.com/r/Lost Pages/wiki/audio#wiki_.25B7_streaming_sites" target="_blank" rel="noreferrer">Squidify</a>
+in Audio Streaming. Popular anime / gaming audio streaming site.</p>
+</li>
+<li>
+<p>Starred
+<a href="https://www.reddit.com/r/Lost Pages/wiki/games#wiki_.25BA_tracking_.2F_discovery" target="_blank" rel="noreferrer">Backloggd</a>
+in Game Tracking / Discovery. Game collection tracker with a really nice UI.</p>
+</li>
+<li>
+<p>Starred
+<a href="https://www.reddit.com/r/Lost Pages/wiki/ai#wiki_.25B7_local_frontends" target="_blank" rel="noreferrer">Fooocus</a>
+in AI Image Gen. Free, high quality image generator.</p>
+</li>
+<li>
+<p>Starred
+<a href="https://www.reddit.com/r/Lost Pages/wiki/android#wiki_.25B7_android_privacy" target="_blank" rel="noreferrer">GrapheneOS</a>
+in Android Privacy. Privacy based operating system popular within privacy
+circles.</p>
+</li>
+<li>
+<p>Starred
+<a href="https://www.reddit.com/r/Lost Pages/wiki/storage#wiki_encrypted_android_messengers" target="_blank" rel="noreferrer">Briar</a>
+in Encrypted Android Messengers. Privacy based android messenger popular
+within privacy circles.</p>
+</li>
+<li>
+<p>Starred
+<a href="https://www.reddit.com/r/Lost Pages/wiki/android#wiki_.25BA_android_tools" target="_blank" rel="noreferrer">XDA</a>
+in Android Tools. Active android discussion forum.</p>
+</li>
+<li>
+<p>Starred
+<a href="https://www.reddit.com/r/Lost Pages/wiki/misc#wiki_.25B7_multi_browser" target="_blank" rel="noreferrer">hektCaptcha</a>
+in Extensions. Seems to work better than others like Buster now.</p>
+</li>
+<li>
+<p>Starred
+<a href="https://www.reddit.com/r/Lost Pages/wiki/storage#wiki_drive_formatting_.2F_file_deletion" target="_blank" rel="noreferrer">SDelete</a>
+in Drive Formatting / File Deletion. Microsofts official file deletion tool.</p>
+</li>
+<li>
+<p>Starred
+<a href="https://www.reddit.com/r/Lost Pages/wiki/storage#wiki_internet_speed_test" target="_blank" rel="noreferrer">Cloudflare Speed Test</a>
+in Speed Tests. Gives more info than a lot of the other sites do.</p>
+</li>
+<li>
+<p>Starred SSD and The Hitchhiker’s Guide in
+<a href="https://www.reddit.com/r/Lost Pages/wiki/storage#wiki_privacy_guides" target="_blank" rel="noreferrer">Privacy Guides</a>.
+Some of the most in depth privacy guide sites out there.</p>
+</li>
+<li>
+<p>Starred Unreal Engine and Godot in
+<a href="https://www.reddit.com/r/Lost Pages/wiki/storage#wiki_game_engines" target="_blank" rel="noreferrer">Game Engines</a>.
+Popular free engines used to create games.</p>
+</li>
+</ul>
+<h3 id="things-removed" tabindex="-1">Things Removed <a class="header-anchor" href="#things-removed" aria-label="Permalink to &quot;Things Removed&quot;"></a></h3>
+<ul>
+<li>
+<p>Removed CrackHub as they've sadly decided to
+<a href="https://i.imgur.com/jaY0grY.png" target="_blank" rel="noreferrer">call it quits</a>. Huge thank you to them for
+providing such a solid site, and so many games to people for as long as they
+did. They will be missed.</p>
+</li>
+<li>
+<p>Unstarred PromptJungle in Online Image Generators as their bot is broken and
+Discord channels have been locked. Apparently they're going to make a
+comeback, but its been over a month now.</p>
+</li>
+<li>
+<p>Unstarred C1NE in Streaming Sites. It used to be good, but for whatever reason
+its extremely slow now.</p>
+</li>
+<li>
+<p>Unstarred Photopea as they caused a bunch of drama in the privacy community by
+<a href="https://yev.varyel.com/post/732023637981446144/psa-photopea-just-became-a-very-shady-option-for" target="_blank" rel="noreferrer">suddenly changing their ad policy</a>,
+and adding an anti-adblock detector to their site. I believe they've removed
+it, but a lot of people have lost trust in them now.</p>
+</li>
+<li>
+<p>Removed Privacy Pass from extensions as it no longer works.</p>
+</li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Public Discord Server]]></title>
+            <link>https://lostpages.netlify.app/posts/discord</link>
+            <guid>https://lostpages.netlify.app/posts/discord</guid>
+            <pubDate>Tue, 24 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="nbats" /><h1 id="public-url-https-rentry-co-Lost Pages-invite" tabindex="-1">Public URL: <a href="https://rentry.co/Lost Pages-invite" target="_blank" rel="noreferrer">https://rentry.co/Lost Pages-invite</a> <a class="header-anchor" href="#public-url-https-rentry-co-Lost Pages-invite" aria-label="Permalink to &quot;Public URL: https://rentry.co/Lost Pages-invite&quot;"></a></h1>
+<hr>
+<h2 id="server-rules" tabindex="-1">Server Rules <a class="header-anchor" href="#server-rules" aria-label="Permalink to &quot;Server Rules&quot;"></a></h2>
+<ol>
+<li>Please be kind and helpful to one another, especially beginners.</li>
+<li>No selling or advertising anything paid.</li>
+<li>No direct links to pirated content.</li>
+<li>No NSFW content (or requests) outside of NSFW channels.</li>
+<li>No racism, sexism, ableism, homophobia, transphobia.</li>
+</ol>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Monthly Updates [October]]]></title>
+            <link>https://lostpages.netlify.app/posts/oct-2023</link>
+            <guid>https://lostpages.netlify.app/posts/oct-2023</guid>
+            <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="nbats"/><div class="info custom-block"><p class="custom-block-title">INFO</p>
+<p>These update threads only contains major updates. If you're interested
+in seeing all minor changes you can follow our
+<a href="https://github.com/Lost Pages/Lost Pagesedit/commits/main" target="_blank" rel="noreferrer">Commits Page</a> on GitHub or
+<a href="https://redd.it/17f8msf" target="_blank" rel="noreferrer">Updates Channel</a> in Discord.</p>
+</div>
+<h3 id="wiki-updates" tabindex="-1">Wiki Updates <a class="header-anchor" href="#wiki-updates" aria-label="Permalink to &quot;Wiki Updates&quot;"></a></h3>
+<ul>
+<li>
+<p>Created a <strong><a href="https://rentry.co/Lost Pages-guides" target="_blank" rel="noreferrer">List of Guides</a></strong> on rentry. This
+page is automated and updates itself anytime a new rentry is added or removed
+from Lost Pages. You can also download the guides yourself by using this
+<a href="https://gist.github.com/Rust1667/efc055debaf4876e4de39cc0d32f18c1" target="_blank" rel="noreferrer">script</a>.</p>
+</li>
+<li>
+<p>Made a <a href="/gamingpiracyguide/#pokémon-tools">Pokémon</a> section in Gaming
+Tools and an <a href="/internet-tools.html#email-tools">Email</a> section in Internet Tools.</p>
+</li>
+<li>
+<p>Added <a href="https://i.imgur.com/mgYq8nF.png" target="_blank" rel="noreferrer">emojis</a> to indicate when we're linking
+3rd party indexes, or our storage page:</p>
+</li>
+</ul>
+<p>🌐 = 3rd Party Indexes (i.e. /r/PiratedGames Mega, Awesome Lists etc.)</p>
+<p>↪️ = Storage Links</p>
+<h3 id="stars-added-⭐" tabindex="-1">Stars Added ⭐ <a class="header-anchor" href="#stars-added-⭐" aria-label="Permalink to &quot;Stars Added ⭐&quot;"></a></h3>
+<ul>
+<li>
+<p>Starred <a href="/ai/#ai-chatbots">Nova AI</a> in AI Chatbots. Gives free GPT-4 tokens.</p>
+</li>
+<li>
+<p>Starred <a href="/gamingpiracyguide/#rom-sites">BlueROMs</a> in ROM sites. Simple DDL
+site with lots of systems.</p>
+</li>
+<li>
+<p>Starred <a href="/storage/#file-sharing-tools">Qiwi</a> in File Hosts. Fast host that's
+becoming popular in piracy circles.</p>
+</li>
+<li>
+<p>Starred Moo and Media in
+<a href="/videopiracyguide/#drives--directories">Video Drives</a>. Fast drives with lots
+of content.</p>
+</li>
+<li>
+<p>Starred <a href="/gamingpiracyguide/#rom-sites">WiiUDownloader</a> in ROM sites. Updated
+more frequently than WiiUSBHelper.</p>
+</li>
+<li>
+<p>Starred <a href="/videopiracyguide/#live-tv--sports">Time4TV</a> in Live TV. Fast
+streams, lots of channels.</p>
+</li>
+<li>
+<p>Starred <a href="/storage/#userscript-managers">TamperMonkey</a> in Userscript Managers.
+Updated more frequently than GreaseMonkey.</p>
+</li>
+<li>
+<p>Starred <a href="/storage/#compression-programs">PeaZip</a> in File Archivers.
+Open-source, supports many formats.</p>
+</li>
+<li>
+<p>Starred <a href="/android-iosguide/#android-streaming">Miru</a> in Android Streaming.
+Open-source, multi-format media app.</p>
+</li>
+<li>
+<p>Starred <a href="/linuxguide/#mac-tools--apps">gibMacOS</a> in Mac Tools. Easily download
+MacOS.</p>
+</li>
+<li>
+<p>Starred <a href="/linuxguide/#mac-software">AppsTorrent</a> in Mac Software. Popular Mac
+Software site with many Apps.</p>
+</li>
+<li>
+<p>Starred <a href="/video-tools.html">PlayPhrase</a> in Video Tools. Search entire internet for
+video clips.</p>
+</li>
+<li>
+<p>Starred <a href="/storage/#note-taking--to-do-apps">Magic ToDo</a> in To Do Apps.
+Automatic Task Breakdown AI.</p>
+</li>
+<li>
+<p>Starred <a href="/miscguide/#health">SafeSubstance</a> in Health. Drug Information / Side
+Effects.</p>
+</li>
+<li>
+<p>Starred <a href="https://tinykittens.com/" target="_blank" rel="noreferrer">TinyKittens</a> in General Tools. Kitten
+Rescue / Donation website.</p>
+</li>
+</ul>
+<h3 id="things-removed" tabindex="-1">Things Removed <a class="header-anchor" href="#things-removed" aria-label="Permalink to &quot;Things Removed&quot;"></a></h3>
+<ul>
+<li>
+<p>Removed RSLOAD, as they’ve uploaded the exact same version of malwarebytes
+with malware that FileCR got in trouble for. We’ve emailed them, so hopefully
+they remove it soon and we can add them back.</p>
+</li>
+<li>
+<p>Removed marin.moe from Anime Streaming as its redirecting to something else
+now.</p>
+</li>
+<li>
+<p>Removed AdGuard extra and other adblock defenders as they're
+<a href="https://ibb.co/xgrtbBZ" target="_blank" rel="noreferrer">redundant</a> with ublock.</p>
+</li>
+<li>
+<p>Removed SteamSkins as Steam dropped support for them in the last update.</p>
+</li>
+<li>
+<p>Removed Saikou from Android Anime as their GitHub has been DMCA'd.</p>
+</li>
+<li>
+<p>Removed Uptobox from File Hosts as their datacenter was
+<a href="https://torrentfreak.com/uptobox-goes-dark-following-police-raids-on-french-datacenters-230920/" target="_blank" rel="noreferrer">raided by french police</a>.</p>
+</li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Monthly Updates [September]]]></title>
+            <link>https://lostpages.netlify.app/posts/sept-2023</link>
+            <guid>https://lostpages.netlify.app/posts/sept-2023</guid>
+            <pubDate>Fri, 01 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="nbats"/><div class="info custom-block"><p class="custom-block-title">INFO</p>
+<p>These update threads only contains major updates. If you're interested
+in seeing all minor changes you can follow our
+<a href="https://github.com/Lost Pages/Lost Pagesedit/commits/main" target="_blank" rel="noreferrer">Commits Page</a> on GitHub or
+<a href="https://redd.it/17f8msf" target="_blank" rel="noreferrer">Updates Channel</a> in Discord.</p>
+</div>
+<h3 id="wiki-updates" tabindex="-1">Wiki Updates <a class="header-anchor" href="#wiki-updates" aria-label="Permalink to &quot;Wiki Updates&quot;"></a></h3>
+<ul>
+<li>
+<p>Split Linux Tools into subcategories: <a href="/linuxguide/#linux-system">System</a>,
+<a href="/linuxguide/#linux-apps">Apps</a>, <a href="/linuxguide/#linux-internet">Internet</a>,
+<a href="/linuxguide/#terminal--shell">Terminal / Shell</a> and
+<a href="/linuxguide/#customization">Customization</a>.</p>
+</li>
+<li>
+<p>NSFW has been <a href="/nsfwpiracy/">overhauled</a> with a bunch of new sites and
+sections.</p>
+</li>
+<li>
+<p>Added Z-Libs new <a href="/readingpiracyguide/#reading-sites">Desktop App / Extension</a>
+in Reading Sites.</p>
+</li>
+<li>
+<p>Replaced 9anime with <a href="/videopiracyguide/#anime-streaming">AniWave</a> as they've
+<a href="https://torrentfreak.com/9anime-rebrands-to-aniwave-citing-legal-troubles-230802/" target="_blank" rel="noreferrer">rebranded</a>
+to avoid blocking.</p>
+</li>
+<li>
+<p>Replaced link to IDM in Download Managers with
+<a href="/storage/#file-download-managers">activation script</a>.</p>
+</li>
+<li>
+<p>Replaced /r/VPN with <a href="https://www.reddit.com/r/vpns/" target="_blank" rel="noreferrer">/r/VPNs</a> in our sidebar,
+as it allows users to discuss providers.</p>
+</li>
+</ul>
+<h3 id="stars-added-⭐" tabindex="-1">Stars Added ⭐ <a class="header-anchor" href="#stars-added-⭐" aria-label="Permalink to &quot;Stars Added ⭐&quot;"></a></h3>
+<ul>
+<li>
+<p>Starred SusFlix and The Movie Archive in
+<a href="/videopiracyguide/#multi-server">Streaming Sites</a>. Big libraries, 4K quality.</p>
+</li>
+<li>
+<p>Starred <a href="/videopiracyguide/#drives--directories">Dhokla</a> in video downloading.
+Big drive, fast downloads.</p>
+</li>
+<li>
+<p>Starred
+<a href="https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md" target="_blank" rel="noreferrer">Awesome Free ChatGPT</a>
+in AI Chatbots. Huge list of free chatbots.</p>
+</li>
+<li>
+<p>Starred <a href="/storage/#compression-programs">NanaZip</a> in File Archivers.
+Open-source, modern design, preferred over 7-Zip by some.</p>
+</li>
+<li>
+<p>Starred <a href="/torrentpiracyguide/#torrent-clients">Deluge</a> in Torrent Clients.
+Open-source client with many useful
+<a href="https://dev.deluge-torrent.org/wiki/Plugins" target="_blank" rel="noreferrer">plugins</a>.</p>
+</li>
+<li>
+<p>Starred <a href="/android-iosguide/#android-audio">InnerTune</a> in Android Audio.
+Open-source YouTube Music client.</p>
+</li>
+<li>
+<p>Starred APKPure and UpToDown in
+<a href="/android-iosguide/#untouched-apks">Untouched APKs</a>.</p>
+</li>
+<li>
+<p>Starred EverythingMoe and Ripped in <a href="/miscguide/#indexes">Indexes</a>. Solid
+Piracy Indexes.</p>
+</li>
+<li>
+<p>Starred <a href="/readingpiracyguide/#comic-sites">ReadAllComics</a> in Comics. Big
+library, no captcha.</p>
+</li>
+<li>
+<p>Starred <a href="/videopiracyguide/#sports-streaming">WatchWrestling24</a> in Sports
+Streaming. Good video hosts, quick uploads.</p>
+</li>
+<li>
+<p>Starred <a href="/adblockvpnguide/#antivirus">Sandboxie Plus</a> in Antivirus.
+User-friendly software sandbox / <a href="https://rentry.co/sandboxie-guide" target="_blank" rel="noreferrer">Guide</a>.</p>
+</li>
+<li>
+<p>Starred <a href="/miscguide/#shopping">DarkPatternsTipline</a> in Shopping. Deceptive
+Service Design Tipline.</p>
+</li>
+<li>
+<p>Starred <a href="/storage/#package-managers">Scoop</a> in Package Managers. Command-line
+installer for Windows.</p>
+</li>
+<li>
+<p>Starred <a href="/toolsguide/#file-tools">SA Drive</a> in File Tools. Google Service
+Account Drive Manager.</p>
+</li>
+<li>
+<p>Starred <a href="/storage/#image-upscalers">OpenModelDB</a> in Image Upscaling. Upscaling
+Model Database.</p>
+</li>
+<li>
+<p>Starred <a href="/toolsguide/#video-tools">EyeCndy</a> in Video Tools. Camera technique
+library.</p>
+</li>
+</ul>
+<h3 id="things-removed" tabindex="-1">Things Removed <a class="header-anchor" href="#things-removed" aria-label="Permalink to &quot;Things Removed&quot;"></a></h3>
+<ul>
+<li>
+<p>We've stopped accepting and started removing all AI tools that require paid
+API keys to function.</p>
+</li>
+<li>
+<p>Removed FileCR as they've been
+<a href="https://rentry.co/filecr_malware" target="_blank" rel="noreferrer">caught with malware</a>, and still haven't
+removed it.</p>
+</li>
+<li>
+<p>Removed AnonFiles as they've decided to quit due to people
+<a href="https://i.imgur.com/lXoEqAV.png" target="_blank" rel="noreferrer">abusing the site</a>.</p>
+</li>
+<li>
+<p>Unstarred WinRar in File Archivers. People feel its not as useful anymore
+given open-source options like 7-Zip / NanaZip.</p>
+</li>
+<li>
+<p>Removed RVX from ReVanced section as its been
+<a href="https://github.com/inotia00/revanced-documentation/wiki/Announcement" target="_blank" rel="noreferrer">discontinued</a>.</p>
+</li>
+<li>
+<p>Removed PDF Drive in PDF Sites as downloads no longer work.</p>
+</li>
+<li>
+<p>Removed TronScript in Debloaters. Some people consider it
+<a href="https://i.imgur.com/K5hf5Bu.png" target="_blank" rel="noreferrer">overkill</a>.</p>
+</li>
+<li>
+<p>Removed Poe in AI Chatbots as its now limited to 10 daily messages (or 100 in
+some countries.)</p>
+</li>
+<li>
+<p>Removed the &quot;Everything I Know&quot; wiki from Indexes as they've gone
+<a href="https://i.imgur.com/ig8jPGL.jpg" target="_blank" rel="noreferrer">paid</a>. You can get around it by blocking the
+overlay, but we're not interested in sending traffic their way anymore.</p>
+</li>
+<li>
+<p>Unstarred 1337x and added <a href="https://pastebin.com/Rc9MYMZ7" target="_blank" rel="noreferrer">warning</a> to avoid
+software / games, as they've had issues with malware, including a torrent that
+was up for days after being reported. They did remove it eventually, and
+<a href="https://i.imgur.com/ij4CXIm.png" target="_blank" rel="noreferrer">respond</a> to the situation, so we feel it
+would be unfair to remove their site entirely. Our hope is that 1337x acts
+quicker in the future, avoids situations like this, and begins to earn trust
+back from people over time.</p>
+</li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[We Removed FileCR as we Found Malware]]></title>
+            <link>https://lostpages.netlify.app/posts/filecr-malware</link>
+            <guid>https://lostpages.netlify.app/posts/filecr-malware</guid>
+            <pubDate>Mon, 14 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="nbats" /><h1 id="filecr-malware" tabindex="-1">FileCR Malware <a class="header-anchor" href="#filecr-malware" aria-label="Permalink to &quot;FileCR Malware&quot;"></a></h1>
+<p>Note: The malware is not exclusive to FileCR and we don't have proof FileCR is
+intentionally hosting it, but they haven't removed it. Possible sources of the
+malware include some uploaders on sanet, but it seems to be coming from multiple
+sources.</p>
+<p>Since the malware has been found coming from multiple sources, info about the
+malware itself has moved to <a href="https://rentry.co/big_load_malware" target="_blank" rel="noreferrer">here</a>. Check
+there for technical info or to check if you've been infected.</p>
+<p>So far, malware has been found in the following cracks, but it is likely it is
+undiscovered in many more downloads because of how large their catalog is.</p>
+<ul>
+<li><a href="https://filecr.com/windows/kms-matrix/" target="_blank" rel="noreferrer">https://filecr.com/windows/kms-matrix/</a></li>
+<li><a href="https://filecr.com/windows/windows-activator-by-goddy/" target="_blank" rel="noreferrer">https://filecr.com/windows/windows-activator-by-goddy/</a></li>
+<li><a href="https://filecr.com/windows/stardock-start11" target="_blank" rel="noreferrer">https://filecr.com/windows/stardock-start11</a></li>
+<li><a href="https://filecr.com/windows/malwarebytes-premium" target="_blank" rel="noreferrer">https://filecr.com/windows/malwarebytes-premium</a></li>
+<li><a href="https://filecr.com/windows/navicat-premium" target="_blank" rel="noreferrer">https://filecr.com/windows/navicat-premium</a> (Navicat Premium 16.2.3)</li>
+<li><a href="https://filecr.com/windows/outbyte-driver-updater" target="_blank" rel="noreferrer">https://filecr.com/windows/outbyte-driver-updater</a></li>
+<li><a href="https://filecr.com/windows/jetbrains-pycharm" target="_blank" rel="noreferrer">https://filecr.com/windows/jetbrains-pycharm</a> (Premium release, you need
+<a href="https://greasyfork.org/en/scripts/403170-bypass-filecrypt" target="_blank" rel="noreferrer">https://greasyfork.org/en/scripts/403170-bypass-filecrypt</a> to access)</li>
+<li><a href="https://filecr.com/windows/avast-premier-antivirus" target="_blank" rel="noreferrer">https://filecr.com/windows/avast-premier-antivirus</a></li>
+</ul>
+<p>So far FileCR has not responded at all, which is unusual as they are usually
+very active and have removed malware in the past as quickly as 6 hours. Because
+the malware is included in multiple unrelated cracks and because they have not
+responded at all to reports, they are likely to be in some way involved in
+spreading or creating the malware. Also, some of the malware had descriptions
+written just for FileCR, which is unusual, and the description for KMS matrix
+contains lies about the activation given by the software.</p>
+<h2 id="samples" tabindex="-1"><a href="https://rentry.co/big_load_malware#samples" target="_blank" rel="noreferrer">Samples</a> <a class="header-anchor" href="#samples" aria-label="Permalink to &quot;[Samples](https://rentry.co/big_load_malware#samples)&quot;"></a></h2>
+<h2 id="am-i-infected" tabindex="-1"><a href="https://rentry.co/big_load_malware#am-i-infected" target="_blank" rel="noreferrer">Am I infected?</a> <a class="header-anchor" href="#am-i-infected" aria-label="Permalink to &quot;[Am I infected?](https://rentry.co/big_load_malware#am-i-infected)&quot;"></a></h2>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Monthly Updates [August]]]></title>
+            <link>https://lostpages.netlify.app/posts/aug-2023</link>
+            <guid>https://lostpages.netlify.app/posts/aug-2023</guid>
+            <pubDate>Tue, 01 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="nbats"/><div class="info custom-block"><p class="custom-block-title">INFO</p>
+<p>These update threads only contains major updates. If you're interested
+in seeing all minor changes you can follow our
+<a href="https://github.com/Lost Pages/Lost Pagesedit/commits/main" target="_blank" rel="noreferrer">Commits Page</a> on GitHub or
+<a href="https://redd.it/17f8msf" target="_blank" rel="noreferrer">Updates Channel</a> in Discord.</p>
+</div>
+<h3 id="wiki-updates" tabindex="-1">Wiki Updates <a class="header-anchor" href="#wiki-updates" aria-label="Permalink to &quot;Wiki Updates&quot;"></a></h3>
+<ul>
+<li>
+<p>Moved Lost Pages.ml to <strong><a href="/">Lost Pages.net</a></strong>, and updated its UI to more closely match
+<a href="/">Lost Pages.pages.dev</a>.</p>
+</li>
+<li>
+<p>Separated Android Tools into subcategories:
+<a href="/android-iosguide/#android-device">Device</a>,
+<a href="/android-iosguide/#android-utilities">Utilities</a>,
+<a href="/android-iosguide/#android-internet">Internet</a>,
+<a href="/android-iosguide/#android-camera">Camera</a> and
+<a href="/android-iosguide/#customization">Customization</a>.</p>
+</li>
+<li>
+<p>Added a <a href="/edupiracyguide/#engineering">Engineering</a> section to Educational.</p>
+</li>
+<li>
+<p>Renamed Multi Hosts to <a href="/videopiracyguide/#multi-server">Multi Server</a>,
+Dedicated Hosts to <a href="/videopiracyguide/#single-server">Single Server</a>, and
+bumped Multi above Single as they're generally better.</p>
+</li>
+<li>
+<p>Moved all the APK sections out of storage, and back into the main
+<a href="/android-iosguide/#android-apks">Android section</a>.</p>
+</li>
+<li>
+<p>Combined all <a href="/non-english/#indian-languages">Indian Language sites</a> into one
+section in Non-Eng, as most host content for more than one language.</p>
+</li>
+</ul>
+<hr>
+<h3 id="stars-added-⭐" tabindex="-1">Stars Added ⭐ <a class="header-anchor" href="#stars-added-⭐" aria-label="Permalink to &quot;Stars Added ⭐&quot;"></a></h3>
+<ul>
+<li>
+<p>Starred <a href="/gamingpiracyguide/#download-games">Ova Games</a> in Game Download. Big
+library, fast hosts.</p>
+</li>
+<li>
+<p>Starred <a href="/videopiracyguide/#multi-server">SmashyStream</a> in Streaming Sites.
+Nice UI, fast 1080p.</p>
+</li>
+<li>
+<p>Starred <a href="/storage/#game-libraries--launcher">BlackPearlOrigin</a> in Game
+Launchers. New game launcher and downloader, made by our friends.</p>
+</li>
+<li>
+<p>Starred Androeed and Modyolo in <a href="/android-iosguide/#modded-apks">Modded APKs</a>.</p>
+</li>
+<li>
+<p>Starred <a href="/gamingpiracyguide/#emulation--roms">Skraper</a> in Emulation. Automate
+ROM Covers / Metadata.</p>
+</li>
+<li>
+<p>Starred <a href="/gamingpiracyguide/#rom-sites">ROMhacking</a> in ROM Sites. One of the
+oldest sites for fan translations.</p>
+</li>
+<li>
+<p>Starred <a href="/videopiracyguide/#live-tv--sports">FreeSports</a> in Live Sports. A
+live sports site that isn't flooded with ads like most are.</p>
+</li>
+<li>
+<p>Starred <a href="/videopiracyguide/#sports-streaming">SoccerCatch</a> in Sports
+Streaming. Full Match replays.</p>
+</li>
+<li>
+<p>Starred <a href="/storage/#vfx-sites">DownloadPirate</a> in VFX Sites. Popular site for
+video effects and software.</p>
+</li>
+<li>
+<p>Starred <a href="/storage/#windows-10-debloater">SophiApp</a> in debloaters. Gives good
+explanations for its tweaks making it safer for new users.</p>
+</li>
+<li>
+<p>Starred
+<a href="https://ash.fail/blog/20230625-actually-good-distro-recomendations-for-beginners.html" target="_blank" rel="noreferrer">Actually Good Distros</a>
+in Linux. Beginner distro guides.</p>
+</li>
+</ul>
+<hr>
+<h3 id="things-removed" tabindex="-1">Things Removed <a class="header-anchor" href="#things-removed" aria-label="Permalink to &quot;Things Removed&quot;"></a></h3>
+<ul>
+<li>
+<p>Removed Bromite as they've <a href="https://i.imgur.com/uM3ryHR.png" target="_blank" rel="noreferrer">stopped updates</a>,
+and replaced it with <a href="https://github.com/uazo/cromite" target="_blank" rel="noreferrer">Cromite</a> which will
+continue to be updated by one of their devs.</p>
+</li>
+<li>
+<p>Removed AI Text Detectors as they're known for
+<a href="https://arstechnica.com/information-technology/2023/07/openai-discontinues-its-ai-writing-detector-due-to-low-rate-of-accuracy/" target="_blank" rel="noreferrer">being inaccurate</a>.</p>
+</li>
+<li>
+<p>Unstarred SoftArchive in Software as people have become annoyed with their
+slow hosts.</p>
+</li>
+<li>
+<p>Unstarred LookMovie in Streaming as people don't like the fact 1080p is behind
+premium.</p>
+</li>
+<li>
+<p>Unstarred QuickBoost in Tweaking as the app doesn't give details as to what
+each tweak actually does.</p>
+</li>
+<li>
+<p>Unstarred Sockshare in Streaming as their original domain died, and it doesn't
+have the best UI anyways.</p>
+</li>
+<li>
+<p>Removed AnimeKaizoku from Anime Streaming as they've shutdown.</p>
+</li>
+<li>
+<p>Removed DeepFloyd from Image Generators as its been paused for over a month.</p>
+</li>
+<li>
+<p>Removed Appnee from Software Sites. The MAS team found that they host many
+<a href="https://i.imgur.com/KmDKUw4.png" target="_blank" rel="noreferrer">unsafe activators</a>. We don't think Appnee is
+purposefully malicious, they just need to be more careful and clean things up
+before we can add them again.</p>
+</li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Monthly Updates [July]]]></title>
+            <link>https://lostpages.netlify.app/posts/july-2023</link>
+            <guid>https://lostpages.netlify.app/posts/july-2023</guid>
+            <pubDate>Sat, 01 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="nbats" /><div class="info custom-block"><p class="custom-block-title">INFO</p>
+<p>These update threads only contains major updates. If you're interested
+in seeing all minor changes you can follow our
+<a href="https://github.com/Lost Pages/Lost Pagesedit/commits/main" target="_blank" rel="noreferrer">Commits Page</a> on GitHub or
+<a href="https://redd.it/17f8msf" target="_blank" rel="noreferrer">Updates Channel</a> in Discord.</p>
+</div>
+<h3 id="wiki-updates" tabindex="-1">Wiki Updates <a class="header-anchor" href="#wiki-updates" aria-label="Permalink to &quot;Wiki Updates&quot;"></a></h3>
+<ul>
+<li>
+<p>Added a <a href="/edupiracyguide/#study--research">Study / Research</a> section to
+Educational.</p>
+</li>
+<li>
+<p>Added a <a href="/miscguide/#travel">Travel</a> section to Miscellaneous.</p>
+</li>
+<li>
+<p>Added a <a href="/system-tools.html#hardware-tools">Hardware</a> section to System Tools.</p>
+</li>
+<li>
+<p>Added qualities (720p, 1080p) to
+<a href="/videopiracyguide/#anime-streaming">Anime Streaming</a> sites.</p>
+</li>
+<li>
+<p><a href="/gamingpiracyguide/#steam--epic">Combined</a> Steam / Epic Tools with DLC
+Unlockers.</p>
+</li>
+<li>
+<p>Linked the <a href="https://ibb.co/X8K2GTc" target="_blank" rel="noreferrer">&quot;missing sections&quot;</a> in all index pages.
+i.e. Image Tools, Dev Tools, Storage, Base64, NSFW and Unsafe.</p>
+</li>
+</ul>
+<hr>
+<h3 id="stars-added-⭐" tabindex="-1">Stars Added ⭐ <a class="header-anchor" href="#stars-added-⭐" aria-label="Permalink to &quot;Stars Added ⭐&quot;"></a></h3>
+<ul>
+<li>
+<p>Starred <a href="/videopiracyguide/#multi-hosts">Seez</a> in Streaming Sites. Nice UI,
+fast 1080p.</p>
+</li>
+<li>
+<p>Starred <a href="/videopiracyguide/#dedicated-hosts">SockShare</a> in Streaming Sites.
+Great for obscure TV.</p>
+</li>
+<li>
+<p>Starred <a href="/videopiracyguide/#download-sites">UHDMovies</a> in Video Download. 4K
+Movie Host.</p>
+</li>
+<li>
+<p>Starred <a href="/gamingpiracyguide/#tracking--discovery">Glitchwave</a> in Game
+Tracking. RYM's new game rating site.</p>
+</li>
+<li>
+<p>Starred <a href="/audiopiracyguide/#streaming-sites">hate5six</a> in Audio Streaming.
+Huge collection of live band videos.</p>
+</li>
+<li>
+<p>Starred <a href="/audiopiracyguide/#download-sites">SittingOnClouds</a> in Audio
+Download. Game / Anime Soundtracks.</p>
+</li>
+<li>
+<p>Starred <a href="/gamingpiracyguide/#steam--epic">Koalageddon</a> in Steam / Epic. DLC
+Unlocker.</p>
+</li>
+<li>
+<p>Starred <a href="/android-iosguide/#ios-audio">SpotC++</a> in iOS Audio. Spotilife +
+Sposify IPA.</p>
+</li>
+<li>
+<p>Starred <a href="/toolsguide/#youtube-tools">Favoree</a> in YouTube Tools. Channel
+Discovery.</p>
+</li>
+<li>
+<p>Starred <a href="/adblockvpnguide/#browser-tools">CloakStream</a> in Privacy Tools.
+Encrypt Download URLs.</p>
+</li>
+</ul>
+<hr>
+<h3 id="things-removed" tabindex="-1">Things Removed <a class="header-anchor" href="#things-removed" aria-label="Permalink to &quot;Things Removed&quot;"></a></h3>
+<ul>
+<li>
+<p>Removed Soap2Day in Streaming Sites as they've shutdown.</p>
+</li>
+<li>
+<p>Unstarred JustChill in Streaming Sites as they've been dealing with DDoS
+attacks and now require logins.</p>
+</li>
+<li>
+<p>Removed Rinzry in Video Download as drive generators no longer work.</p>
+</li>
+<li>
+<p>Removed Mudome in Audio Streaming as it turned into a NSFW site.</p>
+</li>
+<li>
+<p>Removed Demonoid as they've gone private.</p>
+</li>
+<li>
+<p>Unstarred Imgur in Image Hosts as they've mass deleted everything not tied to
+accounts.</p>
+</li>
+<li>
+<p>Unstarred IVPN as they've decided to remove
+<a href="https://www.ivpn.net/blog/gradual-removal-of-port-forwarding/" target="_blank" rel="noreferrer">port forwarding</a>.</p>
+</li>
+<li>
+<p>Removed Chromium from the Unsafe List, as some people feel strongly that
+<a href="https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening" target="_blank" rel="noreferrer">Manifest V3</a>
+isn't enough justification to label it unsafe.</p>
+</li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Monthly Updates [June]]]></title>
+            <link>https://lostpages.netlify.app/posts/jun-2023</link>
+            <guid>https://lostpages.netlify.app/posts/jun-2023</guid>
+            <pubDate>Thu, 01 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="nbats" /><div class="info custom-block"><p class="custom-block-title">INFO</p>
+<p>These update threads only contains major updates. If you're interested
+in seeing all minor changes you can follow our
+<a href="https://github.com/Lost Pages/Lost Pagesedit/commits/main" target="_blank" rel="noreferrer">Commits Page</a> on GitHub or
+<a href="https://redd.it/17f8msf" target="_blank" rel="noreferrer">Updates Channel</a> in Discord.</p>
+</div>
+<h3 id="wiki-updates" tabindex="-1">Wiki Updates <a class="header-anchor" href="#wiki-updates" aria-label="Permalink to &quot;Wiki Updates&quot;"></a></h3>
+<ul>
+<li>
+<p>Added a <a href="/gamingpiracyguide/#chess--checkers">Chess / Checkers</a> section to
+Browser Games.</p>
+</li>
+<li>
+<p>Added a <a href="/ai/#stable-diffusion">Stable Diffusion</a> section to Artificial
+Intelligence.</p>
+</li>
+<li>
+<p>Added qualities (720p, 1080p, 4k) to
+<a href="/videopiracyguide/#download-sites">Video Download</a> sites.</p>
+</li>
+<li>
+<p>Created a <a href="https://github.com/Lost Pages" target="_blank" rel="noreferrer">Git Organization</a> and combined all Lost Pages
+related projects into it.</p>
+</li>
+<li>
+<p>Updated the <a href="https://rentry.org/Piracy-BG" target="_blank" rel="noreferrer">Beginners Guide</a> with new links, a
+FAQ section and more.</p>
+</li>
+<li>
+<p>Imgur is removing everything not tied to an account, so we've gone through and
+replaced all our images with ImgBB.</p>
+</li>
+<li>
+<p>Added <a href="https://ibb.co/HCB7BS9" target="_blank" rel="noreferrer">Friend Wiki's</a> to our sidebar.</p>
+</li>
+</ul>
+<hr>
+<h3 id="stars-added-⭐" tabindex="-1">Stars Added ⭐ <a class="header-anchor" href="#stars-added-⭐" aria-label="Permalink to &quot;Stars Added ⭐&quot;"></a></h3>
+<ul>
+<li>
+<p>Starred <a href="/storage/#game-download-cse">Rezi</a> in Gaming Sites. Multi-site game
+download search.</p>
+</li>
+<li>
+<p>Starred <a href="https://huggingface.co/spaces/uwnlp/guanaco-playground-tgi" target="_blank" rel="noreferrer">Guanaco</a>,
+<a href="https://callannie.ai/" target="_blank" rel="noreferrer">Call Annie</a>, <a href="https://chatbot.theb.ai" target="_blank" rel="noreferrer">BAI</a> and
+<a href="https://chat.lmsys.org/" target="_blank" rel="noreferrer">LMSYS</a> in AI Chatbots.</p>
+</li>
+<li>
+<p>Starred <a href="https://zoo.replicate.dev/" target="_blank" rel="noreferrer">Zoo</a> and
+<a href="https://huggingface.co/spaces/DeepFloyd/IF" target="_blank" rel="noreferrer">DeepFloyd IF</a> in Image
+Generators.</p>
+</li>
+<li>
+<p>Starred <a href="/ai/#chatgpt-prompts">Prompt Engineering Guide</a> in ChatGPT prompts.</p>
+</li>
+<li>
+<p>Starred <a href="/ai/#text-to-speech">Bark</a> in Text to Speech.</p>
+</li>
+<li>
+<p>Starred <a href="/audiopiracyguide/#download-apps">Firehawk52 Guide</a> in Audio
+Downloading.</p>
+</li>
+<li>
+<p>Starred <a href="/downloadpiracyguide/#freeware-sites">store.rg</a> in Freeware Sites.</p>
+</li>
+<li>
+<p>Starred <a href="/toolsguide/#tweaking">f.lux</a> in System Tweaking.</p>
+</li>
+<li>
+<p>Starred <a href="/android-iosguide/#android-tools">MacroDroid</a> in Android Tools.</p>
+</li>
+<li>
+<p>Starred <a href="https://www.ratingraph.com/" target="_blank" rel="noreferrer">Rating Graph</a> and
+<a href="https://deepsearch.mycelebs.com/movie" target="_blank" rel="noreferrer">DeepSearch</a> in Tracking / Discovery.</p>
+</li>
+<li>
+<p>Starred <a href="/devtools/#learning--cheat-sheets">Programming Learning Resources</a> in
+Dev Tools.</p>
+</li>
+<li>
+<p>Starred <a href="/audiopiracyguide/#ambient--relaxation">CityHop</a> in Ambient /
+Relaxation.</p>
+</li>
+<li>
+<p>Starred <a href="/miscguide/#chat--forums">Knockout</a> in Chat / Forums. Made by members
+of facepunch forums after it shut down.</p>
+</li>
+</ul>
+<hr>
+<h3 id="things-removed" tabindex="-1">Things Removed <a class="header-anchor" href="#things-removed" aria-label="Permalink to &quot;Things Removed&quot;"></a></h3>
+<ul>
+<li>
+<p>Removed and unstarred RARBG as they have decided to
+<a href="https://ibb.co/zxcLTpq" target="_blank" rel="noreferrer">call it quits</a>.</p>
+</li>
+<li>
+<p>Unstarred Mullvad in VPNs as they are
+<a href="https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/" target="_blank" rel="noreferrer">removing support for port forwarding</a>.</p>
+</li>
+<li>
+<p>Unstarred Patoghu in Download Sites. They've added
+<a href="https://ibb.co/2SjzZb1" target="_blank" rel="noreferrer">persian captchas</a> to their downloads, making the site
+useless to english users.</p>
+</li>
+<li>
+<p>Unstarred MagicBrush in AI Image Generators. Not quite as good as other free
+options now.</p>
+</li>
+<li>
+<p>Unstarred Authy in Privacy Tools as its not open-source.</p>
+</li>
+<li>
+<p>Unstarred Awesome ChatGPT as its no longer updated.</p>
+</li>
+<li>
+<p>Bromite doesn't seem to be maintained anymore, so we've replaced the main repo
+with an <a href="/android-iosguide/">autobuild</a> for now.</p>
+</li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Monthly Updates [May]]]></title>
+            <link>https://lostpages.netlify.app/posts/may-2023</link>
+            <guid>https://lostpages.netlify.app/posts/may-2023</guid>
+            <pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="nbats"/><div class="info custom-block"><p class="custom-block-title">INFO</p>
+<p>These update threads only contains major updates. If you're interested
+in seeing all minor changes you can follow our
+<a href="https://github.com/Lost Pages/Lost Pagesedit/commits/main" target="_blank" rel="noreferrer">Commits Page</a> on GitHub or
+<a href="https://redd.it/17f8msf" target="_blank" rel="noreferrer">Updates Channel</a> in Discord.</p>
+</div>
+<h3 id="wiki-updates" tabindex="-1">Wiki Updates <a class="header-anchor" href="#wiki-updates" aria-label="Permalink to &quot;Wiki Updates&quot;"></a></h3>
+<ul>
+<li>
+<p>Added <strong><a href="https://rentry.org/The-Piracy-Glossary" target="_blank" rel="noreferrer">The Piracy Glossary ☠️</a></strong>,
+where we've organized and given explanations to every piracy related term we
+could think of.</p>
+</li>
+<li>
+<p>Added Optimization, Tweaking, Virtual Machines and Terminal / CLI subsections
+to <a href="/system-tools.html">System Tools</a>.</p>
+</li>
+<li>
+<p>Added Chat / Forums, Image / Video, Interactive, Interesting and Random
+subsections to <a href="/miscguide/#fun-sites">Fun Sites</a>.</p>
+</li>
+<li>
+<p>Added <a href="/miscguide/#gardening">Gardening</a> section to Miscellaneous.</p>
+</li>
+<li>
+<p>Made a <a href="/downloadpiracyguide/#software-sites">Software CSE</a> out of the
+software sites.</p>
+</li>
+</ul>
+<hr>
+<h3 id="stars-added-⭐" tabindex="-1">Stars Added ⭐ <a class="header-anchor" href="#stars-added-⭐" aria-label="Permalink to &quot;Stars Added ⭐&quot;"></a></h3>
+<ul>
+<li>
+<p>Starred <a href="/gamingpiracyguide/#download-games">Torrminatorr</a> in Gaming Sites.
+Tormminatorr is back!</p>
+</li>
+<li>
+<p>Starred <a href="/gamingpiracyguide/#download-games">GOG Games</a> in Gaming Sites. Gog
+is back on clearnet!</p>
+</li>
+<li>
+<p>Starred <a href="/downloadpiracyguide/#software-sites">FileCR</a> in Software Sites.
+FileCR has removed their anti-adblock.</p>
+</li>
+<li>
+<p>Starred <a href="/videopiracyguide/#dedicated-hosts">Streaminal-TV</a> in Streaming
+Sites. Nice UI, fast 1080p.</p>
+</li>
+<li>
+<p>Starred <a href="/videopiracyguide/#anime-downloading">TokyoInsider</a> in Anime
+Downloading. Anime site with single click DDLs.</p>
+</li>
+<li>
+<p>Starred <a href="/readingpiracyguide/#manga-sites">Cubari</a> in Manga Sites. Multi-site
+manga scraper.</p>
+</li>
+<li>
+<p>Starred <a href="https://addons.mozilla.org/en-US/firefox/addon/foxytab/" target="_blank" rel="noreferrer">FoxyTab</a>,
+<a href="https://addons.mozilla.org/en-US/firefox/addon/zoom-page-we/" target="_blank" rel="noreferrer">Zoom Page WE</a>
+and
+<a href="https://addons.mozilla.org/en-US/firefox/addon/scroll_anywhere/" target="_blank" rel="noreferrer">Scroll Anywhere</a>
+in Browser Extensions.</p>
+</li>
+<li>
+<p>Starred <a href="/miscguide/#random">PokeSmash</a> in Fun Sites.</p>
+</li>
+<li>
+<p>Re-added + starred <a href="/videopiracyguide/#cartoon-streaming">WCO</a> in Cartoon
+Streaming. This went paid for a bit, but seems to be free again.</p>
+</li>
+<li>
+<p>Re-added + starred <a href="/android-iosguide/#android-streaming">CloudStream</a> in
+Android Streaming. Some extensions are still getting updates.</p>
+</li>
+</ul>
+<hr>
+<h3 id="things-removed" tabindex="-1">Things Removed <a class="header-anchor" href="#things-removed" aria-label="Permalink to &quot;Things Removed&quot;"></a></h3>
+<ul>
+<li>
+<p>Unstarred WebOasis in Indexes. Doesn't seem to be getting updated anymore. RIP
+Webby.</p>
+</li>
+<li>
+<p>Unstarred UniqueStream, HDMovieBox and Pirate-Media in streaming for being
+slow / dead.</p>
+</li>
+<li>
+<p>Unstarred Soft98 in software as most downloads are dead.</p>
+</li>
+<li>
+<p>Removed Midjourney in Image Gen as its
+<a href="https://youtu.be/EHnUydrurmk" target="_blank" rel="noreferrer">no longer free</a>.</p>
+</li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Monthly Updates [April]]]></title>
+            <link>https://lostpages.netlify.app/posts/april-2023</link>
+            <guid>https://lostpages.netlify.app/posts/april-2023</guid>
+            <pubDate>Sat, 01 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="nbats"/><div class="info custom-block"><p class="custom-block-title">INFO</p>
+<p>These update threads only contains major updates. If you're interested
+in seeing all minor changes you can follow our
+<a href="https://github.com/Lost Pages/Lost Pagesedit/commits/main" target="_blank" rel="noreferrer">Commits Page</a> on GitHub or
+<a href="https://redd.it/17f8msf" target="_blank" rel="noreferrer">Updates Channel</a> in Discord.</p>
+</div>
+<h3 id="wiki-updates" tabindex="-1">Wiki Updates <a class="header-anchor" href="#wiki-updates" aria-label="Permalink to &quot;Wiki Updates&quot;"></a></h3>
+<ul>
+<li>
+<p>Added
+<a href="https://www.reddit.com/r/Lost Pages/wiki/ai" target="_blank" rel="noreferrer">🤖 Artificial Intelligence</a>
+section.</p>
+</li>
+<li>
+<p>Added Optimization, Tabletop, and Git Gud subsections in
+<a href="/gamingpiracyguide/#gaming-tools">Gaming</a>.</p>
+</li>
+<li>
+<p>Split <a href="/edupiracyguide/#language-learning">Language Learning</a> into
+subsections.</p>
+</li>
+<li>
+<p>Split <a href="/miscguide/#shopping">Shopping</a> into subsections.</p>
+</li>
+<li>
+<p>Split the learning portion of <a href="/devtools/">Dev Tools</a> into subsections.</p>
+</li>
+<li>
+<p>Added Art Education section to <a href="/img-tools/#art-education">Image Tools</a>.</p>
+</li>
+<li>
+<p>Added NoFap section to NSFW to save souls.</p>
+</li>
+<li>
+<p>Added <a href="https://imgur.com/a/YXWUZun" target="_blank" rel="noreferrer">New Headers</a> to the subreddit.</p>
+</li>
+</ul>
+<hr>
+<h3 id="stars-added-⭐" tabindex="-1">Stars Added ⭐ <a class="header-anchor" href="#stars-added-⭐" aria-label="Permalink to &quot;Stars Added ⭐&quot;"></a></h3>
+<ul>
+<li>
+<p>Starred <a href="/ai/#ai-chatbots">ChatPDF</a> in AI chatbots. AI that turns any book
+into a chatbot.</p>
+</li>
+<li>
+<p>Starred <a href="/videopiracyguide/#drives--directories">Foogle</a> in Video Download.
+Fast, single click video downloads.</p>
+</li>
+<li>
+<p>Starred <a href="/videopiracyguide/#dedicated-hosts">JustChill</a> in Streaming Sites.
+Nice UI, fast 1080p.</p>
+</li>
+<li>
+<p>Starred <a href="/videopiracyguide/#multi-hosts">movie-web</a> Streaming Sites. Nice UI,
+fast 1080p.</p>
+</li>
+<li>
+<p>Starred <a href="/videopiracyguide/#multi-hosts">Primewire</a> in Streaming Sites.
+Primewire has started adding links to pirated content again.</p>
+</li>
+<li>
+<p>Starred <a href="https://wotaku.pages.dev/" target="_blank" rel="noreferrer">Wotaku</a> in Indexes. Awesome Japanese
+piracy index.</p>
+</li>
+<li>
+<p>Starred <a href="/downloadpiracyguide/#software-sites">RLSLOAD</a> in software sites.
+Software site with single click downloads.</p>
+</li>
+<li>
+<p>Starred <a href="/img-tools/#screenshot-tools">Flameshot</a> in Screenshot Tools. Some
+people like this more than ShareX.</p>
+</li>
+</ul>
+<hr>
+<h3 id="things-removed" tabindex="-1">Things Removed <a class="header-anchor" href="#things-removed" aria-label="Permalink to &quot;Things Removed&quot;"></a></h3>
+<ul>
+<li>
+<p>Removed FTUApps. FTU got caught with <a href="https://redd.it/120xk62" target="_blank" rel="noreferrer">malware</a> by
+/r/Piracy.</p>
+</li>
+<li>
+<p>Removed star from FileCR. They added new anti-adblock measures recently, and
+adblock defenders are no longer working for many users.</p>
+</li>
+<li>
+<p>Removed anti-anti-copy userscript. Script enables F7 &quot;Caret Browsing mode&quot;
+without telling the user its been enabled, or how to turn it off.</p>
+</li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[How-to Search Lost Pages]]></title>
+            <link>https://lostpages.netlify.app/posts/search</link>
+            <guid>https://lostpages.netlify.app/posts/search</guid>
+            <pubDate>Sat, 07 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="nbats" /><h3 id="Lost Pages-search" tabindex="-1"><a href="https://Lost Pages-search.streamlit.app/" target="_blank" rel="noreferrer">Lost Pages-Search</a> <a class="header-anchor" href="#Lost Pages-search" aria-label="Permalink to &quot;[Lost Pages-Search](https://Lost Pages-search.streamlit.app/)&quot;"></a></h3>
+<p>Search engine hosted on Streamlit</p>
+<hr>
+<h3 id="Lost Pages-net-search" tabindex="-1"><a href="https://lostpages.netlify.app/" target="_blank" rel="noreferrer">Lost Pages.net Search</a> <a class="header-anchor" href="#Lost Pages-net-search" aria-label="Permalink to &quot;[Lost Pages.net Search](https://lostpages.netlify.app/)&quot;"></a></h3>
+<p>Search engine hosted on Lost Pages.net</p>
+<hr>
+<h3 id="old-Lost Pages-net-search" tabindex="-1"><a href="https://old.Lost Pages.net/search" target="_blank" rel="noreferrer">old.Lost Pages.net Search</a> <a class="header-anchor" href="#old-Lost Pages-net-search" aria-label="Permalink to &quot;[old.Lost Pages.net Search](https://old.Lost Pages.net/search)&quot;"></a></h3>
+<p>Search engine hosted on old.Lost Pages.net</p>
+<hr>
+<h3 id="github-search" tabindex="-1"><a href="https://github.com/Lost Pages/edit/search?q=&amp;type=wikis" target="_blank" rel="noreferrer">GitHub Search</a> <a class="header-anchor" href="#github-search" aria-label="Permalink to &quot;[GitHub Search](https://github.com/Lost Pages/edit/search?q=&amp;type=wikis)&quot;"></a></h3>
+<p>GitHub page search engine</p>
+<hr>
+<h3 id="bookmark-html" tabindex="-1"><a href="https://github.com/Lost Pages/bookmarks" target="_blank" rel="noreferrer">Bookmark HTML</a> <a class="header-anchor" href="#bookmark-html" aria-label="Permalink to &quot;[Bookmark HTML](https://github.com/Lost Pages/bookmarks)&quot;"></a></h3>
+<p>Turn Lost Pages into Bookmarks</p>
+<hr>
+<h3 id="python-script" tabindex="-1"><a href="https://github.com/Rust1667/a-Lost Pages-search-engine" target="_blank" rel="noreferrer">Python Script</a> <a class="header-anchor" href="#python-script" aria-label="Permalink to &quot;[Python Script](https://github.com/Rust1667/a-Lost Pages-search-engine)&quot;"></a></h3>
+<p>Search markdown via python script</p>
+<hr>
+<h3 id="raw-markdown" tabindex="-1"><a href="https://api.Lost Pages.net/single-page" target="_blank" rel="noreferrer">Raw Markdown</a> <a class="header-anchor" href="#raw-markdown" aria-label="Permalink to &quot;[Raw Markdown](https://api.Lost Pages.net/single-page)&quot;"></a></h3>
+<p>Search markdown manually (ctrl+f)</p>
+<hr>
+<h3 id="google-cses" tabindex="-1"><a href="https://www.reddit.com/r/Lost Pages/wiki/internet-tools/#wiki_.25B7_custom_search_engines" target="_blank" rel="noreferrer">Google CSEs</a> <a class="header-anchor" href="#google-cses" aria-label="Permalink to &quot;[Google CSEs](https://www.reddit.com/r/Lost Pages/wiki/internet-tools/#wiki_.25B7_custom_search_engines)&quot;"></a></h3>
+<p>Multi-site search engines</p>
+<hr>
+<h3 id="dupe-checker" tabindex="-1"><a href="https://github.com/DanLost Pages/dupe-checker" target="_blank" rel="noreferrer">Dupe Checker</a> <a class="header-anchor" href="#dupe-checker" aria-label="Permalink to &quot;[Dupe Checker](https://github.com/DanLost Pages/dupe-checker)&quot;"></a></h3>
+<p>Lost Pages Dupe Check Tool</p>
+]]></content:encoded>
+        </item>
+    </channel>
+</rss>
