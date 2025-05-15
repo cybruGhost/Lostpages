@@ -10,7 +10,7 @@ Whether you're looking to explore tools, guides, or ideas that don’t always ma
 
 ## 🕸️ Live Site
 
-Visit the full archive: [lostpages.netlify.app](https://lostpages.netlify.app)
+Visit the full archive: [lostpages.netlify.app](https://lostpages.netlify.app) but has some broken links
 
 ---
 note its just a simple project and a nice one
